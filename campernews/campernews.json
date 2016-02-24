@@ -1,0 +1,4270 @@
+[
+{
+"id": "56ae83d749a01bb67dd2a537",
+"headline": "How I Landed a Job as a Junior Software Engineer with Zero Work Experience",
+"timePosted": 1454277591585,
+"link": "https://medium.com/@tgaeta/how-i-landed-a-job-as-a-junior-software-engineer-with-zero-work-experience-b1c7c82aa8d#.20sr5zbs3",
+"metaDescription": "Four months ago, I graduated from a code school that taught me the basics of Ruby and Ruby on Rails. A week later, I had…",
+"description": "undefined",
+"rank": 13,
+"upVotes": [
+{
+"upVotedBy": "5687f9bd8d80a9b453dad577",
+"upVotedByUsername": "diptajbasu"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+},
+{
+"upVotedBy": "56ae8ca38c9d78cd7decd812",
+"upVotedByUsername": "fcc3b82d784"
+},
+{
+"upVotedBy": "552edb4014e4bf0b000e6c99",
+"upVotedByUsername": "sok213"
+},
+{
+"upVotedBy": "5696a45ce27a0ec927c39daa",
+"upVotedByUsername": "ascholtes"
+},
+{
+"upVotedBy": "5600591b21c2e8493f1cb0a1",
+"upVotedByUsername": "cyclokitty"
+},
+{
+"upVotedBy": "5686bd16ee16d210535b20ba",
+"upVotedByUsername": "mananpreets-optimus"
+},
+{
+"upVotedBy": "56a6516ee8317a75520f4222",
+"upVotedByUsername": "cbgalus"
+},
+{
+"upVotedBy": "56288b463d14a0950466e6f0",
+"upVotedByUsername": "shamsher10"
+},
+{
+"upVotedBy": "56af17a92dfb53ac1fda06c2",
+"upVotedByUsername": "alex4ndru"
+},
+{
+"upVotedBy": "565e2324608b77dd506c08c7",
+"upVotedByUsername": "garrettjeffrey"
+},
+{
+"upVotedBy": "565e2324608b77dd506c08c7",
+"upVotedByUsername": "garrettjeffrey"
+},
+{
+"upVotedBy": "569cba581130ac2f0639a932",
+"upVotedByUsername": "lileander"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/7990216?v=3",
+"userId": "5687f9bd8d80a9b453dad577",
+"username": "diptajbasu"
+},
+"image": "https://cdn-images-1.medium.com/max/800/0*VFPSKhptR4J_2c4p.jpg",
+"storyLink": "how i landed a job as a junior software engineer with zero work experience"
+},
+{
+"id": "56ae4c61c002f58a7de977d5",
+"headline": "10 Common Javascript Mistakes to Avoid",
+"timePosted": 1454263393425,
+"link": "http://blog.apcelent.com/javascript-not-working.html",
+"metaDescription": "",
+"description": "undefined",
+"rank": 8,
+"upVotes": [
+{
+"upVotedBy": "5663a525a3aa39a4264ec431",
+"upVotedByUsername": "matchartier"
+},
+{
+"upVotedBy": "56aa6fc543c081954c6b8f3e",
+"upVotedByUsername": "premprakashsingh"
+},
+{
+"upVotedBy": "56a52350b161a35153c746d4",
+"upVotedByUsername": "elalaouifaris"
+},
+{
+"upVotedBy": "54fe05dc61db280b0051df92",
+"upVotedByUsername": "mkemo8870"
+},
+{
+"upVotedBy": "56ae8ca38c9d78cd7decd812",
+"upVotedByUsername": "fcc3b82d784"
+},
+{
+"upVotedBy": "569c6f3aac8a70100518cbad",
+"upVotedByUsername": "antonbabkin"
+},
+{
+"upVotedBy": "56af4fa66e5dde62202bdcff",
+"upVotedByUsername": "fcc7876d673"
+},
+{
+"upVotedBy": "565e2324608b77dd506c08c7",
+"upVotedByUsername": "garrettjeffrey"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/90409?v=3",
+"userId": "5663a525a3aa39a4264ec431",
+"username": "matchartier"
+},
+"image": "",
+"storyLink": "10 common javascript mistakes to avoid"
+},
+{
+"id": "56aba25a073893644b95ac0c",
+"headline": "How I wasted 2 years of my life trying to learn Web Development prior to FCC",
+"timePosted": 1454088794638,
+"link": "https://medium.com/@sok213/how-i-wasted-2-years-of-my-life-trying-to-learn-web-development-prior-to-discovering-freecodecamp-916cbdcf8a1#.xhn2066ms",
+"metaDescription": "It was 2 years ago, a time when FreeCodeCamp did not exist, I would google “how to become a web developer” and be shown …",
+"description": "undefined",
+"rank": 77,
+"upVotes": [
+{
+"upVotedBy": "552edb4014e4bf0b000e6c99",
+"upVotedByUsername": "sok213"
+},
+{
+"upVotedBy": "56a17808b18c6aab3d216eb1",
+"upVotedByUsername": "alymdrictels"
+},
+{
+"upVotedBy": "560da51eab831ceb3c4bd922",
+"upVotedByUsername": "matty22"
+},
+{
+"upVotedBy": "562d48a3e33e60853554c039",
+"upVotedByUsername": "cr0wscalling"
+},
+{
+"upVotedBy": "55fc3b6f9454f66f44fd49ee",
+"upVotedByUsername": "tommygebru"
+},
+{
+"upVotedBy": "56aab8fe025377cd4c336392",
+"upVotedByUsername": "mikebeers"
+},
+{
+"upVotedBy": "56734ed0cbd222ad65745cf1",
+"upVotedByUsername": "natehutchison"
+},
+{
+"upVotedBy": "56aa430c025377cd4c3362c2",
+"upVotedByUsername": "ferferny"
+},
+{
+"upVotedBy": "56a911331ddcf467549f010b",
+"upVotedByUsername": "cwkatzmann"
+},
+{
+"upVotedBy": "55ea0842833b537a57052be2",
+"upVotedByUsername": "ktakats"
+},
+{
+"upVotedBy": "56801a5f56a3bbec64604cc8",
+"upVotedByUsername": "florianrieser"
+},
+{
+"upVotedBy": "56801a5f56a3bbec64604cc8",
+"upVotedByUsername": "florianrieser"
+},
+{
+"upVotedBy": "5640fe134e6b2044615151eb",
+"upVotedByUsername": "brian984"
+},
+{
+"upVotedBy": "56ab810d073893644b95abdd",
+"upVotedByUsername": "fcc50a1eb4b"
+},
+{
+"upVotedBy": "56957247a6fe0f452179d65f",
+"upVotedByUsername": "sslegend99"
+},
+{
+"upVotedBy": "56841eb56088d64a7f60cb9e",
+"upVotedByUsername": "xlycon"
+},
+{
+"upVotedBy": "5674554256a3bbec646042d3",
+"upVotedByUsername": "micjopo"
+},
+{
+"upVotedBy": "565dc9f9c56c322c6654bbf7",
+"upVotedByUsername": "lag-lan"
+},
+{
+"upVotedBy": "56a856992c637b9553429646",
+"upVotedByUsername": "weslez"
+},
+{
+"upVotedBy": "56490b0f5b6c1fad43400d4e",
+"upVotedByUsername": "thanhkle"
+},
+{
+"upVotedBy": "569d4d27ac8a70100518ccde",
+"upVotedByUsername": "jameskemp296"
+},
+{
+"upVotedBy": "5692e17c6c85d22839f6e557",
+"upVotedByUsername": "krizzu"
+},
+{
+"upVotedBy": "56a7ca9a3e7280ed5261946a",
+"upVotedByUsername": "festaton"
+},
+{
+"upVotedBy": "56a1e08aef22a6413cc3a141",
+"upVotedByUsername": "kasraj"
+},
+{
+"upVotedBy": "56a533b1e8317a75520f40d8",
+"upVotedByUsername": "stephoz"
+},
+{
+"upVotedBy": "5618c33c3e7ba65e1943a918",
+"upVotedByUsername": "aungmyokyaw"
+},
+{
+"upVotedBy": "55d5a2835a68cf845a93c626",
+"upVotedByUsername": "zufengw"
+},
+{
+"upVotedBy": "55293f5c20083a0b00f5fb72",
+"upVotedByUsername": "cherylu"
+},
+{
+"upVotedBy": "56aa785dd5557cef4bbaba12",
+"upVotedByUsername": "fcc0a713f60"
+},
+{
+"upVotedBy": "56612a906f53f77f412fe988",
+"upVotedByUsername": "f021"
+},
+{
+"upVotedBy": "56a7bf231ddcf467549eff20",
+"upVotedByUsername": "fcc4c491d58"
+},
+{
+"upVotedBy": "563b4ba20c89469804d538dd",
+"upVotedByUsername": "r4ph43lf"
+},
+{
+"upVotedBy": "5699fb188ef2f69b754ead08",
+"upVotedByUsername": "munishtayal"
+},
+{
+"upVotedBy": "56995285f7d9abf57461c13a",
+"upVotedByUsername": "iffi-the-king"
+},
+{
+"upVotedBy": "56a7682af42999d15348e5ba",
+"upVotedByUsername": "vhfmag"
+},
+{
+"upVotedBy": "56a7682af42999d15348e5ba",
+"upVotedByUsername": "vhfmag"
+},
+{
+"upVotedBy": "569fb24bf2bdd21f3d4a9fa4",
+"upVotedByUsername": "teafg"
+},
+{
+"upVotedBy": "565e2324608b77dd506c08c7",
+"upVotedByUsername": "garrettjeffrey"
+},
+{
+"upVotedBy": "54fe05dc61db280b0051df92",
+"upVotedByUsername": "mkemo8870"
+},
+{
+"upVotedBy": "55abd43fd6a21a185625209e",
+"upVotedByUsername": "lhassan18"
+},
+{
+"upVotedBy": "56aa2a95025377cd4c33629d",
+"upVotedByUsername": "yuraji"
+},
+{
+"upVotedBy": "54b64daa423d860b0090332f",
+"upVotedByUsername": "pearcraft"
+},
+{
+"upVotedBy": "56ad14cc69b0c3324f3ba447",
+"upVotedByUsername": "maikr"
+},
+{
+"upVotedBy": "56a29d51ef22a6413cc3a25d",
+"upVotedByUsername": "dinhjeffrey"
+},
+{
+"upVotedBy": "56ac1a97025377cd4c33654b",
+"upVotedByUsername": "csvergaraa"
+},
+{
+"upVotedBy": "55ea9b092bc696a42c1560ea",
+"upVotedByUsername": "aruvham"
+},
+{
+"upVotedBy": "55fd85987f141c8b1ac127ad",
+"upVotedByUsername": "erkand-imeri"
+},
+{
+"upVotedBy": "54e8e600bc612c0b00eb628b",
+"upVotedByUsername": "adrmob"
+},
+{
+"upVotedBy": "5663a525a3aa39a4264ec431",
+"upVotedByUsername": "matchartier"
+},
+{
+"upVotedBy": "55dd09992103f6871aa5d14f",
+"upVotedByUsername": "micahbales"
+},
+{
+"upVotedBy": "55edd5be2eb68aa234a02430",
+"upVotedByUsername": "taylor-jones"
+},
+{
+"upVotedBy": "56ab2d38073893644b95ab7f",
+"upVotedByUsername": "charles-anew"
+},
+{
+"upVotedBy": "564c635f3792d83865fdf9e3",
+"upVotedByUsername": "keyesersoze"
+},
+{
+"upVotedBy": "56ac791b43c081954c6b917d",
+"upVotedByUsername": "jaya-powell"
+},
+{
+"upVotedBy": "56a26e7416b0295e3c367093",
+"upVotedByUsername": "krankai"
+},
+{
+"upVotedBy": "562afeec4425cde00453e355",
+"upVotedByUsername": "cannelflow"
+},
+{
+"upVotedBy": "56ad76873020c7a74e70443f",
+"upVotedByUsername": "yodisuhasta"
+},
+{
+"upVotedBy": "56ad8a933020c7a74e704453",
+"upVotedByUsername": "supergoat"
+},
+{
+"upVotedBy": "56788785cb1fb61b66bbc2c1",
+"upVotedByUsername": "jinax"
+},
+{
+"upVotedBy": "56ae5fdbc002f58a7de977ee",
+"upVotedByUsername": "brunatrf"
+},
+{
+"upVotedBy": "56a47b870576ba733c9c98d4",
+"upVotedByUsername": "joesilvpb4"
+},
+{
+"upVotedBy": "569ac11198e2f41469118abe",
+"upVotedByUsername": "makkbit"
+},
+{
+"upVotedBy": "568ab5651d6f2cec13990b84",
+"upVotedByUsername": "ezequielmassimino"
+},
+{
+"upVotedBy": "56930b5fd02aa9de33519c9a",
+"upVotedByUsername": "helpmecode3"
+},
+{
+"upVotedBy": "562cc5c68c03178e35d3d0ad",
+"upVotedByUsername": "foobar64"
+},
+{
+"upVotedBy": "56ae8ca38c9d78cd7decd812",
+"upVotedByUsername": "fcc3b82d784"
+},
+{
+"upVotedBy": "54ff0eeec54dc40b00a9f659",
+"upVotedByUsername": "lee182"
+},
+{
+"upVotedBy": "54ff0eeec54dc40b00a9f659",
+"upVotedByUsername": "lee182"
+},
+{
+"upVotedBy": "56a746b51ddcf467549efe4f",
+"upVotedByUsername": "ouzin"
+},
+{
+"upVotedBy": "556f0af420f864d3664891f5",
+"upVotedByUsername": "kallaway"
+},
+{
+"upVotedBy": "55d0b3c0f886a09f7fb3d035",
+"upVotedByUsername": "yumarks"
+},
+{
+"upVotedBy": "56a0629fcd9b8c043de77b50",
+"upVotedByUsername": "starkraving"
+},
+{
+"upVotedBy": "5686bd16ee16d210535b20ba",
+"upVotedByUsername": "mananpreets-optimus"
+},
+{
+"upVotedBy": "55e1d89a11ab92c579f904ba",
+"upVotedByUsername": "quincylarson"
+},
+{
+"upVotedBy": "55be483859eeaab96cea7a05",
+"upVotedByUsername": "alexurotaru"
+},
+{
+"upVotedBy": "567a48accbd222ad6574632e",
+"upVotedByUsername": "ychamanova"
+},
+{
+"upVotedBy": "55ae8ece81fce47e38ae47e7",
+"upVotedByUsername": "schmitzel90"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/8195814?v=3",
+"userId": "552edb4014e4bf0b000e6c99",
+"username": "sok213"
+},
+"image": "https://cdn-images-1.medium.com/max/800/1*nkWf1zVrZ3DCZgnsZAXLWg.jpeg",
+"storyLink": "how i wasted 2 years of my life trying to learn web development prior to fcc"
+},
+{
+"id": "56ae5e4c207cede57d15c830",
+"headline": "My Road to Web Development — Medium",
+"timePosted": 1454267980102,
+"link": "https://medium.com/@HarrisonGE/my-road-to-web-development-366b97c1e9a8#.6fvrm7fqr",
+"metaDescription": "So it Begins (kind of)",
+"description": "undefined",
+"rank": 6,
+"upVotes": [
+{
+"upVotedBy": "565f928bf28c19802256bd70",
+"upVotedByUsername": "harrisonge"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+},
+{
+"upVotedBy": "56ae8ca38c9d78cd7decd812",
+"upVotedByUsername": "fcc3b82d784"
+},
+{
+"upVotedBy": "5600591b21c2e8493f1cb0a1",
+"upVotedByUsername": "cyclokitty"
+},
+{
+"upVotedBy": "55be483859eeaab96cea7a05",
+"upVotedByUsername": "alexurotaru"
+},
+{
+"upVotedBy": "569524764d4b112c211dfc24",
+"upVotedByUsername": "allanfox"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/16126783?v=3",
+"userId": "565f928bf28c19802256bd70",
+"username": "harrisonge"
+},
+"image": "https://cdn-images-1.medium.com/max/800/1*j94xjc2TOj_WxvRC1N_GHg.png",
+"storyLink": "my road to web development medium"
+},
+{
+"id": "56af480778ead3c71f12fa49",
+"headline": "Angular vs React : A Side-By-Side Comparison | Pluralsight Tutorials",
+"timePosted": 1454327815171,
+"link": "http://tutorials.pluralsight.com/review/angular-vs-react-a-side-by-side-comparison",
+"metaDescription": "",
+"description": "undefined",
+"rank": 2,
+"upVotes": [
+{
+"upVotedBy": "55a3fea2ad5254ab4dc4e2dd",
+"upVotedByUsername": "alanbuchanan"
+},
+{
+"upVotedBy": "55608bf2911c13ba6d3ce240",
+"upVotedByUsername": "jcjvm"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/10364894?v=3",
+"userId": "55a3fea2ad5254ab4dc4e2dd",
+"username": "alanbuchanan"
+},
+"image": "",
+"storyLink": "angular vs react a sidebyside comparison pluralsight tutorials"
+},
+{
+"id": "56af35183d787e1f1f54b585",
+"headline": "The Two Pillars of JavaScript",
+"timePosted": 1454322968197,
+"link": "https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.5m02so3wn",
+"metaDescription": "Part 1: How to Escape the 7th Circle of Hell",
+"description": "undefined",
+"rank": 2,
+"upVotes": [
+{
+"upVotedBy": "55cdafd4182f96cf440a3695",
+"upVotedByUsername": "sonyamoisset"
+},
+{
+"upVotedBy": "55608bf2911c13ba6d3ce240",
+"upVotedByUsername": "jcjvm"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/13507232?v=3",
+"userId": "55cdafd4182f96cf440a3695",
+"username": "sonyamoisset"
+},
+"image": "https://cdn-images-1.medium.com/max/800/1*ln-oLGD2p_si8grReagCEw.jpeg",
+"storyLink": "the two pillars of javascript 1"
+},
+{
+"id": "56acc764073893644b95ad2b",
+"headline": "I’m not smart, I just sat there for longer than you — Medium",
+"timePosted": 1454163812982,
+"link": "https://medium.com/@graeme_fulton/i-m-not-smart-i-just-sat-there-for-longer-than-you-1f35b5246cbd#.qznuf6w0k",
+"metaDescription": "If anyone’s struggling with coding, or just learning something difficult, this post might give you some sort of weird ho…",
+"description": "undefined",
+"rank": 15,
+"upVotes": [
+{
+"upVotedBy": "5636e88e306a67d61c77569a",
+"upVotedByUsername": "bighitbiker3"
+},
+{
+"upVotedBy": "54fe05dc61db280b0051df92",
+"upVotedByUsername": "mkemo8870"
+},
+{
+"upVotedBy": "565e2324608b77dd506c08c7",
+"upVotedByUsername": "garrettjeffrey"
+},
+{
+"upVotedBy": "56a3d6c716b0295e3c36722c",
+"upVotedByUsername": "omahonyd"
+},
+{
+"upVotedBy": "552edb4014e4bf0b000e6c99",
+"upVotedByUsername": "sok213"
+},
+{
+"upVotedBy": "54e8e600bc612c0b00eb628b",
+"upVotedByUsername": "adrmob"
+},
+{
+"upVotedBy": "560f981be7491d3358c8bc4c",
+"upVotedByUsername": "vegos91"
+},
+{
+"upVotedBy": "560f981be7491d3358c8bc4c",
+"upVotedByUsername": "vegos91"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+},
+{
+"upVotedBy": "56ae8ca38c9d78cd7decd812",
+"upVotedByUsername": "fcc3b82d784"
+},
+{
+"upVotedBy": "558c8fb0534e23b22e4076f6",
+"upVotedByUsername": "peajaycodes78"
+},
+{
+"upVotedBy": "56a9c40258089d0a4ccb1457",
+"upVotedByUsername": "boleda"
+},
+{
+"upVotedBy": "56a9c40258089d0a4ccb1457",
+"upVotedByUsername": "boleda"
+},
+{
+"upVotedBy": "556f0af420f864d3664891f5",
+"upVotedByUsername": "kallaway"
+},
+{
+"upVotedBy": "569524764d4b112c211dfc24",
+"upVotedByUsername": "allanfox"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/15604901?v=3",
+"userId": "5636e88e306a67d61c77569a",
+"username": "bighitbiker3"
+},
+"image": "https://cdn-images-2.medium.com/max/800/1*zJxTqxSSVeMBVdTeYk4jFw.png",
+"storyLink": "im not smart i just sat there for longer than you medium"
+},
+{
+"id": "56ae06bbc002f58a7de97766",
+"headline": "5 Design Tools to Help You Build Your App — Medium",
+"timePosted": 1454245563241,
+"link": "https://medium.com/@producthunt/5-design-tools-to-help-you-build-your-app-6bee5c7e042e#.auwi3p4tr",
+"metaDescription": "In 2015, one of the biggest maker trends we saw on Product Hunt was the creation of tools to help people make it easier …",
+"description": "undefined",
+"rank": 5,
+"upVotes": [
+{
+"upVotedBy": "565e2324608b77dd506c08c7",
+"upVotedByUsername": "garrettjeffrey"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+},
+{
+"upVotedBy": "56ae8ca38c9d78cd7decd812",
+"upVotedByUsername": "fcc3b82d784"
+},
+{
+"upVotedBy": "56ad524269b0c3324f3ba490",
+"upVotedByUsername": "rallensnider"
+},
+{
+"upVotedBy": "56aad0bc58089d0a4ccb1620",
+"upVotedByUsername": "zt627668885"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/9309089?v=3",
+"userId": "565e2324608b77dd506c08c7",
+"username": "garrettjeffrey"
+},
+"image": "https://cdn-images-1.medium.com/max/800/1*eIRJ7hOFhrfyftvgTKKcQg.jpeg",
+"storyLink": "5 design tools to help you build your app medium 1"
+},
+{
+"id": "56add0916e58c3bb30029004",
+"headline": "200+ Best Free Tools &amp; Resources for Front-End Web Developers — Medium",
+"timePosted": 1454231697882,
+"link": "https://medium.com/@ti_asif/200-best-free-tools-resources-for-front-end-web-developers-3fb3c415a643",
+"metaDescription": "List of useful tools for front-end developers & graphic designers",
+"description": "undefined",
+"rank": 6,
+"upVotes": [
+{
+"upVotedBy": "56ad7dff3020c7a74e704445",
+"upVotedByUsername": "cryptexvinci"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+},
+{
+"upVotedBy": "56ae8ca38c9d78cd7decd812",
+"upVotedByUsername": "fcc3b82d784"
+},
+{
+"upVotedBy": "56a6516ee8317a75520f4222",
+"upVotedByUsername": "cbgalus"
+},
+{
+"upVotedBy": "56ae7cc02ec6129c7d77c595",
+"upVotedByUsername": "demorgan94"
+},
+{
+"upVotedBy": "55be483859eeaab96cea7a05",
+"upVotedByUsername": "alexurotaru"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/10268346?v=3",
+"userId": "56ad7dff3020c7a74e704445",
+"username": "cryptexvinci"
+},
+"image": "https://cdn-images-1.medium.com/max/800/1*kLyXrW5Aveciiveex9pe8A.jpeg",
+"storyLink": "200 best free tools resources for frontend web developers medium"
+},
+{
+"id": "56ae2e8e2ec6129c7d77c528",
+"headline": "An In-Depth Introduction To Ember.js – Smashing Magazine",
+"timePosted": 1454255758477,
+"link": "https://www.smashingmagazine.com/2013/11/an-in-depth-introduction-to-ember-js/",
+"metaDescription": "With the release of Ember.js 1.0, it’s just about time to consider giving it a try. This article aims to introduce Ember.js to newcomers who want to learn about the framework.",
+"description": "undefined",
+"rank": 4,
+"upVotes": [
+{
+"upVotedBy": "5600591b21c2e8493f1cb0a1",
+"upVotedByUsername": "cyclokitty"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+},
+{
+"upVotedBy": "56ae8ca38c9d78cd7decd812",
+"upVotedByUsername": "fcc3b82d784"
+},
+{
+"upVotedBy": "56ad524269b0c3324f3ba490",
+"upVotedByUsername": "rallensnider"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/14623520?v=3",
+"userId": "5600591b21c2e8493f1cb0a1",
+"username": "cyclokitty"
+},
+"image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/11/emberjs-logo1.png",
+"storyLink": "an indepth introduction to emberjs smashing magazine"
+},
+{
+"id": "56ae7edf2ec6129c7d77c59b",
+"headline": "Modernizr: the feature detection library for HTML5/CSS3",
+"timePosted": 1454276319720,
+"link": "https://modernizr.com/",
+"metaDescription": "",
+"description": "undefined",
+"rank": 3,
+"upVotes": [
+{
+"upVotedBy": "54fe05dc61db280b0051df92",
+"upVotedByUsername": "mkemo8870"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+},
+{
+"upVotedBy": "56ae8ca38c9d78cd7decd812",
+"upVotedByUsername": "fcc3b82d784"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/12566878?v=3",
+"userId": "54fe05dc61db280b0051df92",
+"username": "mkemo8870"
+},
+"image": "",
+"storyLink": "modernizr the feature detection library for html5css3"
+},
+{
+"id": "56ae7d2d49a01bb67dd2a528",
+"headline": "Can I use... Support tables for HTML5, CSS3, etc",
+"timePosted": 1454275885313,
+"link": "http://caniuse.com/#",
+"metaDescription": "",
+"description": "undefined",
+"rank": 3,
+"upVotes": [
+{
+"upVotedBy": "54fe05dc61db280b0051df92",
+"upVotedByUsername": "mkemo8870"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+},
+{
+"upVotedBy": "56ae8ca38c9d78cd7decd812",
+"upVotedByUsername": "fcc3b82d784"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/12566878?v=3",
+"userId": "54fe05dc61db280b0051df92",
+"username": "mkemo8870"
+},
+"image": "",
+"storyLink": "can i use support tables for html5 css3 etc 1"
+},
+{
+"id": "56ae1afd49a01bb67dd2a48f",
+"headline": "Faster Coding With 5 Regular Expression Patterns ",
+"timePosted": 1454250749184,
+"link": "http://blog.codeschool.io/2016/01/05/faster-coding-5-regular-expression-patterns/?utm_medium=email&utm_campaign=newsletter_january_16&utm_source=mailchimp&utm_content=null",
+"metaDescription": "",
+"description": "undefined",
+"rank": 4,
+"upVotes": [
+{
+"upVotedBy": "55d22bba8cc3dcf63f40963f",
+"upVotedByUsername": "koop22"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+},
+{
+"upVotedBy": "56ae8ca38c9d78cd7decd812",
+"upVotedByUsername": "fcc3b82d784"
+},
+{
+"upVotedBy": "56ad524269b0c3324f3ba490",
+"upVotedByUsername": "rallensnider"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/13839080?v=3",
+"userId": "55d22bba8cc3dcf63f40963f",
+"username": "koop22"
+},
+"image": "",
+"storyLink": "faster coding with 5 regular expression patterns"
+},
+{
+"id": "56ae64f12ec6129c7d77c570",
+"headline": "Infinite Loop — Medium",
+"timePosted": 1454269681150,
+"link": "https://medium.com/@ezchx/infinite-loop-fb00af4b16c7#.ccp8cdg3w",
+"metaDescription": "Not a Programmer",
+"description": "undefined",
+"rank": 3,
+"upVotes": [
+{
+"upVotedBy": "563d092866f446ea055a5226",
+"upVotedByUsername": "ezchx"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+},
+{
+"upVotedBy": "56ae8ca38c9d78cd7decd812",
+"upVotedByUsername": "fcc3b82d784"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/15090638?v=3",
+"userId": "563d092866f446ea055a5226",
+"username": "ezchx"
+},
+"image": "https://cdn-images-2.medium.com/max/800/1*7XnPQr8HJlYoBBHx21pQPw.jpeg",
+"storyLink": "infinite loop medium"
+},
+{
+"id": "56adf05349a01bb67dd2a45b",
+"headline": "Extending Sass with PostCSS",
+"timePosted": 1454239827212,
+"link": "https://css-tricks.com/extending-sass-with-postcss/",
+"metaDescription": "",
+"description": "undefined",
+"rank": 4,
+"upVotes": [
+{
+"upVotedBy": "55cdafd4182f96cf440a3695",
+"upVotedByUsername": "sonyamoisset"
+},
+{
+"upVotedBy": "56ae5431207cede57d15c818",
+"upVotedByUsername": "fcc8f0849a0"
+},
+{
+"upVotedBy": "56ae8ca38c9d78cd7decd812",
+"upVotedByUsername": "fcc3b82d784"
+},
+{
+"upVotedBy": "54ccf4953e90da0a005ad7d4",
+"upVotedByUsername": "naveedhd"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/13507232?v=3",
+"userId": "55cdafd4182f96cf440a3695",
+"username": "sonyamoisset"
+},
+"image": "",
+"storyLink": "extending sass with postcss"
+},
+{
+"id": "56ae32ee207cede57d15c7e3",
+"headline": "Why I love CodePen – Michael on webby stuff",
+"timePosted": 1454256878462,
+"link": "http://blog.michaelarestad.com/2013/10/14/why-i-love-codepen/",
+"metaDescription": "",
+"description": "undefined",
+"rank": 3,
+"upVotes": [
+{
+"upVotedBy": "55fc3b6f9454f66f44fd49ee",
+"upVotedByUsername": "tommygebru"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+},
+{
+"upVotedBy": "56ae8ca38c9d78cd7decd812",
+"upVotedByUsername": "fcc3b82d784"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/7606025?v=3",
+"userId": "55fc3b6f9454f66f44fd49ee",
+"username": "tommygebru"
+},
+"image": "http://blog.michaelarestad.com/wp-content/uploads/2013/10/heart-codepen.jpg",
+"storyLink": "why i love codepen michael on webby stuff"
+},
+{
+"id": "56ad996280fc94f54ffc410d",
+"headline": "39 Free Amazing Stock Photos Sites — Medium",
+"timePosted": 1454217570451,
+"link": "https://medium.com/vantage/these-39-sites-have-amazing-stock-photos-you-can-use-for-free-4ddf3524e1d9",
+"metaDescription": "It can be insanely hard to find high quality, high-res free stock photos for personal and commercial use. A growing numb…",
+"description": "undefined",
+"rank": 5,
+"upVotes": [
+{
+"upVotedBy": "55ea5c1aba871e982c40c3dc",
+"upVotedByUsername": "hermanfassett"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+},
+{
+"upVotedBy": "56ae8ca38c9d78cd7decd812",
+"upVotedByUsername": "fcc3b82d784"
+},
+{
+"upVotedBy": "559edd1ac301c92a7caa49e7",
+"upVotedByUsername": "acctg4code"
+},
+{
+"upVotedBy": "56a6516ee8317a75520f4222",
+"upVotedByUsername": "cbgalus"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/12920275?v=3",
+"userId": "55ea5c1aba871e982c40c3dc",
+"username": "hermanfassett"
+},
+"image": "https://cdn-images-1.medium.com/max/800/1*nAbQTVJGoi2EWHR9JX3XcA.jpeg",
+"storyLink": "39 free amazing stock photos sites medium"
+},
+{
+"id": "56af61d04755437f20386fa6",
+"headline": "PSD to HTML Tutorial: The Only Guide You Need in 2016",
+"timePosted": 1454334416990,
+"link": "http://1stwebdesigner.com/psd-to-html/",
+"metaDescription": "This is the ONLY PSD to HTML tutorial you'll need to learn how to convert Photoshop files into working HTML websites! The most definite guide created!",
+"description": "undefined",
+"rank": 1,
+"upVotes": [
+{
+"upVotedBy": "56810d4856a3bbec64604db5",
+"upVotedByUsername": "livike"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/6690754?v=3",
+"userId": "56810d4856a3bbec64604db5",
+"username": "livike"
+},
+"image": "http://1stwebdesigner.com/wp-content/uploads/2015/09/psd_to_html_training.jpg",
+"storyLink": "psd to html tutorial the only guide you need in 2016"
+},
+{
+"id": "56adc8410b47b3ce6aa3bb19",
+"headline": "Freecodecamp - site for begginers code programmer - YouTube",
+"timePosted": 1454229569524,
+"link": "https://www.youtube.com/watch?v=Uv2YxP-HvOI",
+"metaDescription": "In this video author show you how to start code very easy and fast.",
+"description": "undefined",
+"rank": 4,
+"upVotes": [
+{
+"upVotedBy": "56ac6f4b43c081954c6b9175",
+"upVotedByUsername": "developeran"
+},
+{
+"upVotedBy": "56a739c43e7280ed526193b0",
+"upVotedByUsername": "nuttyto"
+},
+{
+"upVotedBy": "56a739c43e7280ed526193b0",
+"upVotedByUsername": "nuttyto"
+},
+{
+"upVotedBy": "56ae8ca38c9d78cd7decd812",
+"upVotedByUsername": "fcc3b82d784"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/16970758?v=3",
+"userId": "56ac6f4b43c081954c6b9175",
+"username": "developeran"
+},
+"image": "https://i.ytimg.com/vi/Uv2YxP-HvOI/hqdefault.jpg",
+"storyLink": "freecodecamp site for begginers code programmer youtube"
+},
+{
+"id": "56ad222c3020c7a74e7043d1",
+"headline": "Want to Get Paid for Your Passion? Do This First — Medium",
+"timePosted": 1454187052954,
+"link": "https://medium.com/@jeffgoins/want-to-get-paid-for-your-passion-do-this-first-7ece03e1b117#.g397ccmlu",
+"metaDescription": "Every week, someone emails me asking how they can become a full-time writer, start an online business, or work for thems…",
+"description": "undefined",
+"rank": 7,
+"upVotes": [
+{
+"upVotedBy": "565e2324608b77dd506c08c7",
+"upVotedByUsername": "garrettjeffrey"
+},
+{
+"upVotedBy": "56ad91c3aad0e94d4f95d6d9",
+"upVotedByUsername": "fcc00929d10"
+},
+{
+"upVotedBy": "56a739c43e7280ed526193b0",
+"upVotedByUsername": "nuttyto"
+},
+{
+"upVotedBy": "56a739c43e7280ed526193b0",
+"upVotedByUsername": "nuttyto"
+},
+{
+"upVotedBy": "56ae8ca38c9d78cd7decd812",
+"upVotedByUsername": "fcc3b82d784"
+},
+{
+"upVotedBy": "56ae7cc02ec6129c7d77c595",
+"upVotedByUsername": "demorgan94"
+},
+{
+"upVotedBy": "569524764d4b112c211dfc24",
+"upVotedByUsername": "allanfox"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/9309089?v=3",
+"userId": "565e2324608b77dd506c08c7",
+"username": "garrettjeffrey"
+},
+"image": "https://cdn-images-2.medium.com/max/800/1*jBAkiA5qoVY8PdE-kH1OOw.jpeg",
+"storyLink": "want to get paid for your passion do this first medium"
+},
+{
+"id": "56af5bb72dfb53ac1fda0733",
+"headline": "Frontiers of Computational Thinking: A SXSW Report—Stephen Wolfram Blog",
+"timePosted": 1454332855635,
+"link": "http://blog.stephenwolfram.com/2015/03/frontiers-of-computational-thinking-a-sxsw-report/#PostLinguisticConcepts",
+"metaDescription": "",
+"description": "undefined",
+"rank": 1,
+"upVotes": [
+{
+"upVotedBy": "565e2324608b77dd506c08c7",
+"upVotedByUsername": "garrettjeffrey"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/9309089?v=3",
+"userId": "565e2324608b77dd506c08c7",
+"username": "garrettjeffrey"
+},
+"image": "",
+"storyLink": "frontiers of computational thinking a sxsw reportstephen wolfram blog"
+},
+{
+"id": "56af47b4a57b97f01fd7ef30",
+"headline": "Cool curation of resources to learn new Javascript (ES6)",
+"timePosted": 1454327732714,
+"link": "http://www.mybridge.co/skills/ecmascript2015",
+"metaDescription": "{{SEO.description}}",
+"description": "undefined",
+"rank": 1,
+"upVotes": [
+{
+"upVotedBy": "55a3fea2ad5254ab4dc4e2dd",
+"upVotedByUsername": "alanbuchanan"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/10364894?v=3",
+"userId": "55a3fea2ad5254ab4dc4e2dd",
+"username": "alanbuchanan"
+},
+"image": "",
+"storyLink": "cool curation of resources to learn new javascript es6"
+},
+{
+"id": "56af47366e5dde62202bdcf7",
+"headline": "FREE Javascript Course on Udemy",
+"timePosted": 1454327606529,
+"link": "https://www.reddit.com/r/learnjavascript/comments/42vtz8/free_javascript_course_on_udemy/",
+"metaDescription": "I created a complete Javascript course that covers from basic to advanced topics in Javascript. There are 88 video lessons, many exercises and...",
+"description": "undefined",
+"rank": 1,
+"upVotes": [
+{
+"upVotedBy": "55a3fea2ad5254ab4dc4e2dd",
+"upVotedByUsername": "alanbuchanan"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/10364894?v=3",
+"userId": "55a3fea2ad5254ab4dc4e2dd",
+"username": "alanbuchanan"
+},
+"image": "https://i.redditmedia.com/p0VocYWSU-RJ1r1GfANdi9ZjBtc9ZHqz829mf-q7nGo.jpg?w=320&s=a2b9811d2d33067d39c5edb48a70956c",
+"storyLink": "free javascript course on udemy"
+},
+{
+"id": "56af3fdb3d787e1f1f54b595",
+"headline": "10 Web design trends you can expect to see in 2016 ",
+"timePosted": 1454325723927,
+"link": "http://thenextweb.com/dd/2016/01/01/10-web-design-trends-can-expect-see-2016/2/",
+"metaDescription": "Design trends often span several years (even decades for some types of design), but Web design is a quickly moving and changing industry where trends come",
+"description": "undefined",
+"rank": 1,
+"upVotes": [
+{
+"upVotedBy": "55b63a49e8e8d289405b29e0",
+"upVotedByUsername": "cybot1711"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/8877178?v=3",
+"userId": "55b63a49e8e8d289405b29e0",
+"username": "cybot1711"
+},
+"image": "http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2016/01/designtrends.jpg",
+"storyLink": "10 web design trends you can expect to see in 2016 1"
+},
+{
+"id": "56af353fa57b97f01fd7ef20",
+"headline": "Common Misconceptions About Inheritance in JavaScript",
+"timePosted": 1454323007157,
+"link": "https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a#.im1q32667",
+"metaDescription": "WAT? [wat] — interjection: A sound a programmer makes when something violates the principle of least astonishment by ast…",
+"description": "undefined",
+"rank": 1,
+"upVotes": [
+{
+"upVotedBy": "55cdafd4182f96cf440a3695",
+"upVotedByUsername": "sonyamoisset"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/13507232?v=3",
+"userId": "55cdafd4182f96cf440a3695",
+"username": "sonyamoisset"
+},
+"image": "https://cdn-images-1.medium.com/max/800/1*mqiPYR-z3LXUB2KWUTEJDQ.jpeg",
+"storyLink": "common misconceptions about inheritance in javascript"
+},
+{
+"id": "56af34f14755437f20386f66",
+"headline": "Milligram | A minimalist CSS framework.",
+"timePosted": 1454322929600,
+"link": "http://milligram.github.io/",
+"metaDescription": "Milligram provides a minimal setup of styles for a fast and clean starting point. Specially designed for better performance and higher productivity with fewer properties to reset resulting in cleaner code.",
+"description": "undefined",
+"rank": 1,
+"upVotes": [
+{
+"upVotedBy": "55cdafd4182f96cf440a3695",
+"upVotedByUsername": "sonyamoisset"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/13507232?v=3",
+"userId": "55cdafd4182f96cf440a3695",
+"username": "sonyamoisset"
+},
+"image": "https://milligram.github.io/img/thumbnail.jpg",
+"storyLink": "milligram a minimalist css framework"
+},
+{
+"id": "56af2fda6e5dde62202bdccb",
+"headline": "PHP 7 - New Features and Performance Results",
+"timePosted": 1454321626315,
+"link": "http://www.javiernunez.com/php-7-new-features",
+"metaDescription": "PHP 7 was released on December 3rd, 2015. I this article I explain some of the main features of the major upgrade and the performance improvement results.",
+"description": "undefined",
+"rank": 1,
+"upVotes": [
+{
+"upVotedBy": "56ab7bd8073893644b95abd3",
+"upVotedByUsername": "javiernunez"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/2578652?v=3",
+"userId": "56ab7bd8073893644b95abd3",
+"username": "javiernunez"
+},
+"image": "http://www.javiernunez.com/wp-content/uploads/2016/01/php-7-logo-300x203.jpg",
+"storyLink": "php 7 new features and performance results"
+},
+{
+"id": "56af250078ead3c71f12fa13",
+"headline": "When You Know the Basics, but You Still Can't Code",
+"timePosted": 1454318848328,
+"link": "http://www.programmingforbeginnersbook.com/blog/when_you_know_the_basics_but_you_still_cant_code/",
+"metaDescription": "",
+"description": "undefined",
+"rank": 1,
+"upVotes": [
+{
+"upVotedBy": "54a80a93f60fac0b0037a4c2",
+"upVotedByUsername": "serhiicss"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/3081897?v=3",
+"userId": "54a80a93f60fac0b0037a4c2",
+"username": "serhiicss"
+},
+"image": "",
+"storyLink": "when you know the basics but you still cant code"
+},
+{
+"id": "56ad8d6caad0e94d4f95d6d4",
+"headline": "    Why You Should Commit to Learning with Open Source - Treehouse Blog  ",
+"timePosted": 1454214508795,
+"link": "http://blog.teamtreehouse.com/why-you-should-commit-to-learning-with-open-source",
+"metaDescription": "",
+"description": "undefined",
+"rank": 4,
+"upVotes": [
+{
+"upVotedBy": "565e2324608b77dd506c08c7",
+"upVotedByUsername": "garrettjeffrey"
+},
+{
+"upVotedBy": "56a78e4c2c637b95534294eb",
+"upVotedByUsername": "jkrew89"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+},
+{
+"upVotedBy": "56ae8ca38c9d78cd7decd812",
+"upVotedByUsername": "fcc3b82d784"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/9309089?v=3",
+"userId": "565e2324608b77dd506c08c7",
+"username": "garrettjeffrey"
+},
+"image": "",
+"storyLink": "why you should commit to learning with open source treehouse blog"
+},
+{
+"id": "56af1c6378ead3c71f12fa00",
+"headline": "Make Bootstrap Modals timed and open on page load",
+"timePosted": 1454316643121,
+"link": "http://bootbites.com/articles/freebie-bootstrap-modals-page-load",
+"metaDescription": "Got an important message, newsletter form or contact form you want to show users when your page loads? Well this freebie is perfect for you. Load Bootstrap modals on page load, with delays, a set durations and even chain multiple modals into a sequence.",
+"description": "undefined",
+"rank": 1,
+"upVotes": [
+{
+"upVotedBy": "56ac6759025377cd4c33658e",
+"upVotedByUsername": "thomjjames"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/685847?v=3",
+"userId": "56ac6759025377cd4c33658e",
+"username": "thomjjames"
+},
+"image": "",
+"storyLink": "make bootstrap modals timed and open on page load"
+},
+{
+"id": "56ac71ae073893644b95ace1",
+"headline": "I am having trouble with the basic JavaScript algorithms in Free Code Camp. Should I le...",
+"timePosted": 1454141870165,
+"link": "https://www.quora.com/I-am-having-trouble-with-the-basic-JavaScript-algorithms-in-Free-Code-Camp-Should-I-learn-somewhere-else-or-continue-with-Free-Code-Camp",
+"metaDescription": "",
+"description": "undefined",
+"rank": 10,
+"upVotes": [
+{
+"upVotedBy": "562afeec4425cde00453e355",
+"upVotedByUsername": "cannelflow"
+},
+{
+"upVotedBy": "56459daddf04666b781bbc40",
+"upVotedByUsername": "lukssone"
+},
+{
+"upVotedBy": "56459daddf04666b781bbc40",
+"upVotedByUsername": "lukssone"
+},
+{
+"upVotedBy": "56819588328b452744f331d5",
+"upVotedByUsername": "fcc695b99aa"
+},
+{
+"upVotedBy": "55293f5c20083a0b00f5fb72",
+"upVotedByUsername": "cherylu"
+},
+{
+"upVotedBy": "565e2324608b77dd506c08c7",
+"upVotedByUsername": "garrettjeffrey"
+},
+{
+"upVotedBy": "54fe05dc61db280b0051df92",
+"upVotedByUsername": "mkemo8870"
+},
+{
+"upVotedBy": "56ab2d38073893644b95ab7f",
+"upVotedByUsername": "charles-anew"
+},
+{
+"upVotedBy": "56a52350b161a35153c746d4",
+"upVotedByUsername": "elalaouifaris"
+},
+{
+"upVotedBy": "56ae8ca38c9d78cd7decd812",
+"upVotedByUsername": "fcc3b82d784"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/12219251?v=3",
+"userId": "562afeec4425cde00453e355",
+"username": "cannelflow"
+},
+"image": "",
+"storyLink": "i am having trouble with the basic javascript algorithms in free code camp should i le"
+},
+{
+"id": "56aefb62a81ea1817d72216b",
+"headline": "Want Dropbox for Windows 10",
+"timePosted": 1454308194257,
+"link": "https://www.livepcgeeks.us/blog/want-dropbox-for-windows-10/",
+"metaDescription": "",
+"description": "undefined",
+"rank": 1,
+"upVotes": [
+{
+"upVotedBy": "562f60779b880efb35ace110",
+"upVotedByUsername": "rahulsmo"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/15374878?v=3",
+"userId": "562f60779b880efb35ace110",
+"username": "rahulsmo"
+},
+"image": "",
+"storyLink": "want dropbox for windows 10"
+},
+{
+"id": "56aef4078c9d78cd7decd891",
+"headline": "11 Things That Every Web Designer Should Know",
+"timePosted": 1454306311793,
+"link": "http://www.webdesignflip.com/11-things-that-every-web-designer-should-know/",
+"metaDescription": "",
+"description": "undefined",
+"rank": 1,
+"upVotes": [
+{
+"upVotedBy": "55dc7465272b30462c7d55bb",
+"upVotedByUsername": "hidimba360"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/15699316?v=3",
+"userId": "55dc7465272b30462c7d55bb",
+"username": "hidimba360"
+},
+"image": "http://www.webdesignflip.com/wp-content/uploads/2016/02/web-designers-know.png",
+"storyLink": "11 things that every web designer should know"
+},
+{
+"id": "56aee05c8c9d78cd7decd877",
+"headline": "20 Best jQuery Image Zoom Plugins",
+"timePosted": 1454301276733,
+"link": "http://www.hidimba360.com/jquery-image-zoom-plugins/",
+"metaDescription": "When it comes to enhancing the functionalities and appearance of the website, there is virtually no limit to what you can do. While you might construct a",
+"description": "undefined",
+"rank": 1,
+"upVotes": [
+{
+"upVotedBy": "55dc7465272b30462c7d55bb",
+"upVotedByUsername": "hidimba360"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/15699316?v=3",
+"userId": "55dc7465272b30462c7d55bb",
+"username": "hidimba360"
+},
+"image": "",
+"storyLink": "20 best jquery image zoom plugins"
+},
+{
+"id": "56acec2258089d0a4ccb188e",
+"headline": "How to land your first job as a web designer or developer",
+"timePosted": 1454173218738,
+"link": "https://paulbakaus.com/2015/12/11/how-to-land-your-first-job-as-web-designer/",
+"metaDescription": "The Sea of Ideas - The personal homepage of Paul Bakaus.",
+"description": "undefined",
+"rank": 5,
+"upVotes": [
+{
+"upVotedBy": "5687f9bd8d80a9b453dad577",
+"upVotedByUsername": "diptajbasu"
+},
+{
+"upVotedBy": "5618c33c3e7ba65e1943a918",
+"upVotedByUsername": "aungmyokyaw"
+},
+{
+"upVotedBy": "56a73d5f1ddcf467549efe42",
+"upVotedByUsername": "camsie"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+},
+{
+"upVotedBy": "56ae8ca38c9d78cd7decd812",
+"upVotedByUsername": "fcc3b82d784"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/7990216?v=3",
+"userId": "5687f9bd8d80a9b453dad577",
+"username": "diptajbasu"
+},
+"image": "https://s0.wp.com/i/blank.jpg",
+"storyLink": "how to land your first job as a web designer or developer"
+},
+{
+"id": "56aec3642ec6129c7d77c5ef",
+"headline": "MaterializeCSS: A modern responsive front-end framework based on Material Design ",
+"timePosted": 1454293860869,
+"link": "http://materializecss.com",
+"metaDescription": "Materialize is a modern responsive CSS framework based on Material Design by Google. ",
+"description": "undefined",
+"rank": 1,
+"upVotes": [
+{
+"upVotedBy": "56ae4a8c8c9d78cd7decd7c1",
+"upVotedByUsername": "obouchari"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/4773811?v=3",
+"userId": "56ae4a8c8c9d78cd7decd7c1",
+"username": "obouchari"
+},
+"image": "",
+"storyLink": "materializecss a modern responsive frontend framework based on material design"
+},
+{
+"id": "56aec30f2ec6129c7d77c5ee",
+"headline": "CSS Reference, Properties and Values, Browser Support",
+"timePosted": 1454293775685,
+"link": "http://cssvalues.com",
+"metaDescription": "CSS Values | A quick-reference online resource for getting all possible values for every valid CSS property.",
+"description": "undefined",
+"rank": 1,
+"upVotes": [
+{
+"upVotedBy": "56ae4a8c8c9d78cd7decd7c1",
+"upVotedByUsername": "obouchari"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/4773811?v=3",
+"userId": "56ae4a8c8c9d78cd7decd7c1",
+"username": "obouchari"
+},
+"image": "",
+"storyLink": "css reference properties and values browser support"
+},
+{
+"id": "56aec2ae2ec6129c7d77c5ed",
+"headline": "How Browsers Work: Behind the scenes of modern web browsers",
+"timePosted": 1454293678662,
+"link": "http://www.html5rocks.com/en/tutorials/internals/howbrowserswork",
+"metaDescription": "In this comprehensive primer, you will learn what happens in the browser between when you type google.com in the address bar until you see the Google page on the browser screen.",
+"description": "undefined",
+"rank": 1,
+"upVotes": [
+{
+"upVotedBy": "56ae4a8c8c9d78cd7decd7c1",
+"upVotedByUsername": "obouchari"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/4773811?v=3",
+"userId": "56ae4a8c8c9d78cd7decd7c1",
+"username": "obouchari"
+},
+"image": "http://www.html5rocks.com/static/images/profiles/taligarsiel.png",
+"storyLink": "how browsers work behind the scenes of modern web browsers"
+},
+{
+"id": "56ab17ec58089d0a4ccb167a",
+"headline": "JavaScript Modules: A Beginner’s Guide — Free Code Camp — Medium",
+"timePosted": 1454053356471,
+"link": "https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.v7ocfbwf2",
+"metaDescription": "If you’re a newcomer to JavaScript, jargon like “module bundlers vs. module loaders,” “Webpack vs. Browserify” and “AMD …",
+"description": "undefined",
+"rank": 24,
+"upVotes": [
+{
+"upVotedBy": "562afeec4425cde00453e355",
+"upVotedByUsername": "cannelflow"
+},
+{
+"upVotedBy": "56a63c7475e7c0365353b1e9",
+"upVotedByUsername": "abhitonysmile"
+},
+{
+"upVotedBy": "563caf9366f446ea055a51e8",
+"upVotedByUsername": "rohythakur"
+},
+{
+"upVotedBy": "55e324dba538f8161effd0ea",
+"upVotedByUsername": "josephg60"
+},
+{
+"upVotedBy": "55d1bd9b2bce01a7354260c5",
+"upVotedByUsername": "jeremiahh117"
+},
+{
+"upVotedBy": "555f2690053025c556773b93",
+"upVotedByUsername": "jobah"
+},
+{
+"upVotedBy": "55c88777da5e48bc71b52b7a",
+"upVotedByUsername": "maciejsartys"
+},
+{
+"upVotedBy": "55ca065167619fe102561301",
+"upVotedByUsername": "marzelin"
+},
+{
+"upVotedBy": "5576cd6c63e7ee1d2cc326b5",
+"upVotedByUsername": "luisgarciacarra"
+},
+{
+"upVotedBy": "5600591b21c2e8493f1cb0a1",
+"upVotedByUsername": "cyclokitty"
+},
+{
+"upVotedBy": "54ee77855e36b111008b614e",
+"upVotedByUsername": "saintpeter"
+},
+{
+"upVotedBy": "56a10fd0f2bdd21f3d4aa1a5",
+"upVotedByUsername": "swapan-yafail"
+},
+{
+"upVotedBy": "56801a5f56a3bbec64604cc8",
+"upVotedByUsername": "florianrieser"
+},
+{
+"upVotedBy": "56ac0423073893644b95ac77",
+"upVotedByUsername": "akuejat36"
+},
+{
+"upVotedBy": "568d8bdb502287937d92a521",
+"upVotedByUsername": "eriksonoliveira"
+},
+{
+"upVotedBy": "55a19a858404cb2b0c43e01b",
+"upVotedByUsername": "brasa619"
+},
+{
+"upVotedBy": "569f5440cd9b8c043de779a9",
+"upVotedByUsername": "knightrid"
+},
+{
+"upVotedBy": "55293f5c20083a0b00f5fb72",
+"upVotedByUsername": "cherylu"
+},
+{
+"upVotedBy": "55fd85987f141c8b1ac127ad",
+"upVotedByUsername": "erkand-imeri"
+},
+{
+"upVotedBy": "56a7bf231ddcf467549eff20",
+"upVotedByUsername": "fcc4c491d58"
+},
+{
+"upVotedBy": "56aa7fd1073893644b95aa9f",
+"upVotedByUsername": "fcc286d6b86"
+},
+{
+"upVotedBy": "56ab2014073893644b95ab69",
+"upVotedByUsername": "haitrung"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+},
+{
+"upVotedBy": "56ae8ca38c9d78cd7decd812",
+"upVotedByUsername": "fcc3b82d784"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/12219251?v=3",
+"userId": "562afeec4425cde00453e355",
+"username": "cannelflow"
+},
+"image": "https://cdn-images-1.medium.com/max/800/1*bcZz-qb_DNpvrNNwQBhQmQ.jpeg",
+"storyLink": "javascript modules a beginners guide free code camp medium 3"
+},
+{
+"id": "56ac690443c081954c6b9172",
+"headline": "Bootstrap DropDown Effects with Animate.css from BootBites.com",
+"timePosted": 1454139652078,
+"link": "http://bootbites.com/tutorials/bootstrap-dropdown-effects-animatecss",
+"metaDescription": "Spice up your Bootstrap dropdowns with some cool effects from Animate.css.",
+"description": "undefined",
+"rank": 7,
+"upVotes": [
+{
+"upVotedBy": "56ac6759025377cd4c33658e",
+"upVotedByUsername": "thomjjames"
+},
+{
+"upVotedBy": "56ab538ed5557cef4bbabb2b",
+"upVotedByUsername": "loliuxuxu"
+},
+{
+"upVotedBy": "56819588328b452744f331d5",
+"upVotedByUsername": "fcc695b99aa"
+},
+{
+"upVotedBy": "55293f5c20083a0b00f5fb72",
+"upVotedByUsername": "cherylu"
+},
+{
+"upVotedBy": "56a73d5f1ddcf467549efe42",
+"upVotedByUsername": "camsie"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+},
+{
+"upVotedBy": "56ae8ca38c9d78cd7decd812",
+"upVotedByUsername": "fcc3b82d784"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/685847?v=3",
+"userId": "56ac6759025377cd4c33658e",
+"username": "thomjjames"
+},
+"image": "",
+"storyLink": "bootstrap dropdown effects with animatecss from bootbitescom"
+},
+{
+"id": "56abe16d43c081954c6b90ec",
+"headline": "Web Design Trends To Leave In 2015",
+"timePosted": 1454104941633,
+"link": "http://blog.reenvision.ca/web-design-trends-to-leave-in-2015?utm_campaign=2016%20Giselle%20-%20Lead%20-%20Twitter&utm_medium=social&utm_source=twitter",
+"metaDescription": "An unfortunate truth is that poor web design can happen on great web pages. Attractive web design is a crucial part of your site. Your visitors only talk half a second to decide how they feel about your website. Your design must be beneficial to the UX to make sure your visitors stay on your site. Whatever you do, be sure to leave the following web design trends in the past so they stop sabotaging your business. ",
+"description": "undefined",
+"rank": 11,
+"upVotes": [
+{
+"upVotedBy": "568dc5b5506a1e537e519906",
+"upVotedByUsername": "djlachapelle"
+},
+{
+"upVotedBy": "56819588328b452744f331d5",
+"upVotedByUsername": "fcc695b99aa"
+},
+{
+"upVotedBy": "55293f5c20083a0b00f5fb72",
+"upVotedByUsername": "cherylu"
+},
+{
+"upVotedBy": "56ab1e64d5557cef4bbabafa",
+"upVotedByUsername": "kamleshc1"
+},
+{
+"upVotedBy": "567e330543a901226507040d",
+"upVotedByUsername": "imccommons"
+},
+{
+"upVotedBy": "54fe05dc61db280b0051df92",
+"upVotedByUsername": "mkemo8870"
+},
+{
+"upVotedBy": "55a01b470358222406a66505",
+"upVotedByUsername": "architeuthisx88"
+},
+{
+"upVotedBy": "56804c4856a3bbec64604cf7",
+"upVotedByUsername": "francinehouston"
+},
+{
+"upVotedBy": "56ac4a3a073893644b95acbd",
+"upVotedByUsername": "mkg1147"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+},
+{
+"upVotedBy": "56ae8ca38c9d78cd7decd812",
+"upVotedByUsername": "fcc3b82d784"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/16281249?v=3",
+"userId": "568dc5b5506a1e537e519906",
+"username": "djlachapelle"
+},
+"image": "http://cdn2.hubspot.net/hubfs/737242/blog-webtrends.jpg#keepProtocol",
+"storyLink": "web design trends to leave in 2015"
+},
+{
+"id": "56abf952073893644b95ac6c",
+"headline": "What is the best way to become a great programmer? - Quora",
+"timePosted": 1454111058220,
+"link": "https://www.quora.com/What-is-the-best-way-to-become-a-great-programmer",
+"metaDescription": "",
+"description": "undefined",
+"rank": 9,
+"upVotes": [
+{
+"upVotedBy": "54a4baa6975bfc0b0030b667",
+"upVotedByUsername": "ellieadam"
+},
+{
+"upVotedBy": "56819588328b452744f331d5",
+"upVotedByUsername": "fcc695b99aa"
+},
+{
+"upVotedBy": "55293f5c20083a0b00f5fb72",
+"upVotedByUsername": "cherylu"
+},
+{
+"upVotedBy": "567e330543a901226507040d",
+"upVotedByUsername": "imccommons"
+},
+{
+"upVotedBy": "54fe05dc61db280b0051df92",
+"upVotedByUsername": "mkemo8870"
+},
+{
+"upVotedBy": "56a73d5f1ddcf467549efe42",
+"upVotedByUsername": "camsie"
+},
+{
+"upVotedBy": "56ae5431207cede57d15c818",
+"upVotedByUsername": "fcc8f0849a0"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+},
+{
+"upVotedBy": "56ae8ca38c9d78cd7decd812",
+"upVotedByUsername": "fcc3b82d784"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/7389754?v=3",
+"userId": "54a4baa6975bfc0b0030b667",
+"username": "ellieadam"
+},
+"image": "",
+"storyLink": "what is the best way to become a great programmer quora"
+},
+{
+"id": "56ab8c3058089d0a4ccb16fb",
+"headline": "CSS Best Practices to Follow and Bad Habits to Avoid",
+"timePosted": 1454083120033,
+"link": "http://1stwebdesigner.com/css-best-practices/",
+"metaDescription": "To give you a guide when writing CSS codes, we listed the CSS best practices to follow and the bad habits to avoid. So, get ready and let’s get started.",
+"description": "undefined",
+"rank": 12,
+"upVotes": [
+{
+"upVotedBy": "55dd09992103f6871aa5d14f",
+"upVotedByUsername": "micahbales"
+},
+{
+"upVotedBy": "56a6584ab161a35153c74861",
+"upVotedByUsername": "fcc067e258a"
+},
+{
+"upVotedBy": "568d8bdb502287937d92a521",
+"upVotedByUsername": "eriksonoliveira"
+},
+{
+"upVotedBy": "55a19a858404cb2b0c43e01b",
+"upVotedByUsername": "brasa619"
+},
+{
+"upVotedBy": "56a5f0ca905658dc53a526a8",
+"upVotedByUsername": "csegate2"
+},
+{
+"upVotedBy": "56819588328b452744f331d5",
+"upVotedByUsername": "fcc695b99aa"
+},
+{
+"upVotedBy": "55293f5c20083a0b00f5fb72",
+"upVotedByUsername": "cherylu"
+},
+{
+"upVotedBy": "567e330543a901226507040d",
+"upVotedByUsername": "imccommons"
+},
+{
+"upVotedBy": "56a6ac5308938ad052efe5f0",
+"upVotedByUsername": "greatorc"
+},
+{
+"upVotedBy": "569ab9698972c6fb687b61c0",
+"upVotedByUsername": "medabidi"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+},
+{
+"upVotedBy": "569524764d4b112c211dfc24",
+"upVotedByUsername": "allanfox"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/13973020?v=3",
+"userId": "55dd09992103f6871aa5d14f",
+"username": "micahbales"
+},
+"image": "http://www.1stwebdesigner.com/wp-content/uploads/2013/12/css-best-practices-and-bad-habits-to-avoid1-570x335.jpg",
+"storyLink": "css best practices to follow and bad habits to avoid"
+},
+{
+"id": "56ad8c3a80fc94f54ffc4107",
+"headline": "Adobe Flash Player 20.0.0.294 Stable Update - Would it Really Die in Two Years?",
+"timePosted": 1454214202427,
+"link": "http://neurogadget.com/2016/01/30/adobe-flash-player-20-0-0-294-stable-update-would-it-really-die-in-two-years/23389",
+"metaDescription": "",
+"description": "undefined",
+"rank": 2,
+"upVotes": [
+{
+"upVotedBy": "5619cf33fd70d5b75185dd56",
+"upVotedByUsername": "elp1987"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/16160548?v=3",
+"userId": "5619cf33fd70d5b75185dd56",
+"username": "elp1987"
+},
+"image": "http://neurogadget.com/wp-content/uploads/2016/01/Adobe-Flash-Player.jpg",
+"storyLink": "adobe flash player 2000294 stable update would it really die in two years"
+},
+{
+"id": "56ad896caad0e94d4f95d6d1",
+"headline": "Improved Animated Scrolling Script for Same-Page Links | Learning jQuery",
+"timePosted": 1454213484435,
+"link": "http://www.learningjquery.com/2007/10/improved-animated-scrolling-script-for-same-page-links",
+"metaDescription": "Improved Animated Scrolling Script for Same-Page Links at Learning jQuery",
+"description": "undefined",
+"rank": 2,
+"upVotes": [
+{
+"upVotedBy": "55dd09992103f6871aa5d14f",
+"upVotedByUsername": "micahbales"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/13973020?v=3",
+"userId": "55dd09992103f6871aa5d14f",
+"username": "micahbales"
+},
+"image": "",
+"storyLink": "improved animated scrolling script for samepage links learning jquery"
+},
+{
+"id": "56ad885a69b0c3324f3ba4c0",
+"headline": "Building beautiful websites with Bootstrap: A case study | Design Bootstrap",
+"timePosted": 1454213210311,
+"link": "http://www.designbootstrap.com/building-beautiful-websites-with-bootstrap-a-case-study-2/",
+"metaDescription": "Presented by Michael Kennedy Bootstrap has literally changed the game when it comes to web design. This is especially true for developers who have traditionally",
+"description": "undefined",
+"rank": 2,
+"upVotes": [
+{
+"upVotedBy": "5619cf33fd70d5b75185dd56",
+"upVotedByUsername": "elp1987"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/16160548?v=3",
+"userId": "5619cf33fd70d5b75185dd56",
+"username": "elp1987"
+},
+"image": "https://s0.wp.com/i/blank.jpg",
+"storyLink": "building beautiful websites with bootstrap a case study design bootstrap"
+},
+{
+"id": "56ad7c4569b0c3324f3ba4b7",
+"headline": "Hardcore JavaScript or Power of 30 Lines",
+"timePosted": 1454210117358,
+"link": "http://ipestov.com/hardcore-javascript-or-power-of-30-lines/",
+"metaDescription": "Awesome collection of 10 tiny games written in 30 lines of hardcore JavaScript. Get inspired!",
+"description": "undefined",
+"rank": 2,
+"upVotes": [
+{
+"upVotedBy": "5663a525a3aa39a4264ec431",
+"upVotedByUsername": "matchartier"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/90409?v=3",
+"userId": "5663a525a3aa39a4264ec431",
+"username": "matchartier"
+},
+"image": "http://ipestov.com/content/images/2016/01/hardcore-javascript-1.jpg",
+"storyLink": "hardcore javascript or power of 30 lines"
+},
+{
+"id": "56ac301443c081954c6b9139",
+"headline": "18F — Introducing the CSS coding style guide",
+"timePosted": 1454125076221,
+"link": "https://18f.gsa.gov/2016/01/11/introducing-the-css-coding-style-guide/",
+"metaDescription": "18F is releasing our CSS coding style guide, which specifies our best practices and rules for writing consistent, maintainable CSS code.",
+"description": "undefined",
+"rank": 6,
+"upVotes": [
+{
+"upVotedBy": "5687f9bd8d80a9b453dad577",
+"upVotedByUsername": "diptajbasu"
+},
+{
+"upVotedBy": "55293f5c20083a0b00f5fb72",
+"upVotedByUsername": "cherylu"
+},
+{
+"upVotedBy": "568dc5b5506a1e537e519906",
+"upVotedByUsername": "djlachapelle"
+},
+{
+"upVotedBy": "567e330543a901226507040d",
+"upVotedByUsername": "imccommons"
+},
+{
+"upVotedBy": "54fe05dc61db280b0051df92",
+"upVotedByUsername": "mkemo8870"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/7990216?v=3",
+"userId": "5687f9bd8d80a9b453dad577",
+"username": "diptajbasu"
+},
+"image": "https://18f.gsa.gov/assets/blog/css-guide/css-guide.png",
+"storyLink": "18f introducing the css coding style guide"
+},
+{
+"id": "56ab7512d1c119b24c18de44",
+"headline": "Getting Started With jQuery - Ajax The Basics",
+"timePosted": 1454077202061,
+"link": "http://www.i-programmer.info/programming/jquery/8895-getting-started-with-jquery-ajax-the-basics.html",
+"metaDescription": "Programming book reviews, programming tutorials,programming news, C#, Ruby, Python,C, C++, PHP, Visual Basic, Computer book reviews, computer history, programming history, joomla, theory, spreadsheets and more.",
+"description": "undefined",
+"rank": 11,
+"upVotes": [
+{
+"upVotedBy": "55fd85987f141c8b1ac127ad",
+"upVotedByUsername": "erkand-imeri"
+},
+{
+"upVotedBy": "564242d4ad4e5db07795a68a",
+"upVotedByUsername": "lisablore"
+},
+{
+"upVotedBy": "54fe05dc61db280b0051df92",
+"upVotedByUsername": "mkemo8870"
+},
+{
+"upVotedBy": "56a10fd0f2bdd21f3d4aa1a5",
+"upVotedByUsername": "swapan-yafail"
+},
+{
+"upVotedBy": "568d8bdb502287937d92a521",
+"upVotedByUsername": "eriksonoliveira"
+},
+{
+"upVotedBy": "56868493ee16d210535b2090",
+"upVotedByUsername": "jundc1006"
+},
+{
+"upVotedBy": "55a19a858404cb2b0c43e01b",
+"upVotedByUsername": "brasa619"
+},
+{
+"upVotedBy": "55293f5c20083a0b00f5fb72",
+"upVotedByUsername": "cherylu"
+},
+{
+"upVotedBy": "55e324dba538f8161effd0ea",
+"upVotedByUsername": "josephg60"
+},
+{
+"upVotedBy": "56ad7dff3020c7a74e704445",
+"upVotedByUsername": "cryptexvinci"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/14806022?v=3",
+"userId": "55fd85987f141c8b1ac127ad",
+"username": "erkand-imeri"
+},
+"image": "",
+"storyLink": "getting started with jquery ajax the basics"
+},
+{
+"id": "56ad60a0aad0e94d4f95d6b6",
+"headline": "6 Takeaways from a New Startup — Medium",
+"timePosted": 1454203040598,
+"link": "https://medium.com/user-experience-design-1/sum-takeaways-from-a-new-startup-93bea966bc4#.navui1rab",
+"metaDescription": "The date: 2012. I had graduated from college. At the time I had just \nbegun my role as a User Experience Designer at Uni…",
+"description": "undefined",
+"rank": 2,
+"upVotes": [
+{
+"upVotedBy": "55fc3b6f9454f66f44fd49ee",
+"upVotedByUsername": "tommygebru"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/7606025?v=3",
+"userId": "55fc3b6f9454f66f44fd49ee",
+"username": "tommygebru"
+},
+"image": "https://d262ilb51hltx0.cloudfront.net/max/800/1*mmmJnh527Fkz396V2GuLjg.jpeg",
+"storyLink": "6 takeaways from a new startup medium"
+},
+{
+"id": "56ad31a969b0c3324f3ba478",
+"headline": "Introduction to Node.js  | Hector Correa",
+"timePosted": 1454191017170,
+"link": "http://hectorcorrea.com/blog/introduction-to-node-js/51",
+"metaDescription": "HectorCorrea.com",
+"description": "undefined",
+"rank": 2,
+"upVotes": [
+{
+"upVotedBy": "55d0b3c0f886a09f7fb3d035",
+"upVotedByUsername": "yumarks"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/13001960?v=3",
+"userId": "55d0b3c0f886a09f7fb3d035",
+"username": "yumarks"
+},
+"image": "",
+"storyLink": "introduction to nodejs hector correa"
+},
+{
+"id": "56ad2c7e80fc94f54ffc40ab",
+"headline": "These 39 Sites Have Amazing Stock Photos You Can Use For Free — Vantage — Medium",
+"timePosted": 1454189694093,
+"link": "https://medium.com/vantage/these-39-sites-have-amazing-stock-photos-you-can-use-for-free-4ddf3524e1d9#.dwyeujln0",
+"metaDescription": "It can be insanely hard to find high quality, high-res free stock photos for personal and commercial use. A growing numb…",
+"description": "undefined",
+"rank": 2,
+"upVotes": [
+{
+"upVotedBy": "54a4baa6975bfc0b0030b667",
+"upVotedByUsername": "ellieadam"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/7389754?v=3",
+"userId": "54a4baa6975bfc0b0030b667",
+"username": "ellieadam"
+},
+"image": "https://cdn-images-1.medium.com/max/800/1*nAbQTVJGoi2EWHR9JX3XcA.jpeg",
+"storyLink": "these 39 sites have amazing stock photos you can use for free vantage medium"
+},
+{
+"id": "56ad2ac5aad0e94d4f95d678",
+"headline": "Flexbox Froggy - A game for learning CSS flexbox",
+"timePosted": 1454189253438,
+"link": "http://flexboxfroggy.com",
+"metaDescription": "",
+"description": "undefined",
+"rank": 2,
+"upVotes": [
+{
+"upVotedBy": "56810d4856a3bbec64604db5",
+"upVotedByUsername": "livike"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/6690754?v=3",
+"userId": "56810d4856a3bbec64604db5",
+"username": "livike"
+},
+"image": "http://flexboxfroggy.com/images/screenshot.png",
+"storyLink": "flexbox froggy a game for learning css flexbox 1"
+},
+{
+"id": "56acad67d5557cef4bbabc8c",
+"headline": "5 Rules &amp; Algorithms for More Effective Web Design - Tim Brown",
+"timePosted": 1454157159489,
+"link": "https://timbdesign.com/rules-algorithms-more-effective-web-design-research/",
+"metaDescription": "",
+"description": "undefined",
+"rank": 3,
+"upVotes": [
+{
+"upVotedBy": "568dc5b5506a1e537e519906",
+"upVotedByUsername": "djlachapelle"
+},
+{
+"upVotedBy": "5618c33c3e7ba65e1943a918",
+"upVotedByUsername": "aungmyokyaw"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/16281249?v=3",
+"userId": "568dc5b5506a1e537e519906",
+"username": "djlachapelle"
+},
+"image": "https://timbdesign.com/wp-content/uploads/2016/01/rules-algorithms-more-effective-web-design.jpg",
+"storyLink": "5 rules algorithms for more effective web design tim brown"
+},
+{
+"id": "56ac5900073893644b95acca",
+"headline": "JavaScript Built-in Functions",
+"timePosted": 1454135552652,
+"link": "http://www.tutorialspoint.com/javascript/javascript_builtin_functions.htm",
+"metaDescription": "JavaScript Built-in Functions - Learn Javascript in simple and easy steps. A beginner's tutorial containing complete knowledge of Javascript Syntax Objects Embedding with HTML Validations Cookies Regular Expressions Literals Variables Loops Conditions.",
+"description": "undefined",
+"rank": 4,
+"upVotes": [
+{
+"upVotedBy": "54a4baa6975bfc0b0030b667",
+"upVotedByUsername": "ellieadam"
+},
+{
+"upVotedBy": "55293f5c20083a0b00f5fb72",
+"upVotedByUsername": "cherylu"
+},
+{
+"upVotedBy": "54fe05dc61db280b0051df92",
+"upVotedByUsername": "mkemo8870"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/7389754?v=3",
+"userId": "54a4baa6975bfc0b0030b667",
+"username": "ellieadam"
+},
+"image": "",
+"storyLink": "javascript builtin functions"
+},
+{
+"id": "56ac1787d1c119b24c18df15",
+"headline": "20+ Cool Retro &amp; Vintage Logo Template Designs",
+"timePosted": 1454118791010,
+"link": "http://www.balharainfotech.com/20-cool-retro-vintage-logo-template-designs/",
+"metaDescription": "Retro and vintage style logo template designs are becoming quite popular with the graphic and web designers. There are a number of websites that showcase the",
+"description": "undefined",
+"rank": 5,
+"upVotes": [
+{
+"upVotedBy": "5695b616e7a531ff27ae3b6b",
+"upVotedByUsername": "balharainfotech"
+},
+{
+"upVotedBy": "56a9c40258089d0a4ccb1457",
+"upVotedByUsername": "boleda"
+},
+{
+"upVotedBy": "56a9c40258089d0a4ccb1457",
+"upVotedByUsername": "boleda"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+},
+{
+"upVotedBy": "55dc7465272b30462c7d55bb",
+"upVotedByUsername": "hidimba360"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/16677478?v=3",
+"userId": "5695b616e7a531ff27ae3b6b",
+"username": "balharainfotech"
+},
+"image": "http://www.balharainfotech.com/wp-content/uploads/2016/01/vintage-logo-template25.jpg",
+"storyLink": "20 cool retro vintage logo template designs"
+},
+{
+"id": "56ad22403020c7a74e7043d2",
+"headline": "Columbus Web Group – Weekend Workshop: Intro to JavaScript ",
+"timePosted": 1454187072266,
+"link": "https://www.youtube.com/watch?v=xt_FoEHiZy0&feature=youtu.be",
+"metaDescription": "DAY 1 of 2 2-Week Course: January 23rd 10am-12pm, January 30th 10am-12pm ABOUT THE WORKSHOP Columbus Web Group's Weekend Workshops are designed to help educa...",
+"description": "undefined",
+"rank": 2,
+"upVotes": [
+{
+"upVotedBy": "556a8952b8b3a84b5e9dc8e2",
+"upVotedByUsername": "danstockham"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/11827054?v=3",
+"userId": "556a8952b8b3a84b5e9dc8e2",
+"username": "danstockham"
+},
+"image": "https://i.ytimg.com/vi/xt_FoEHiZy0/hqdefault.jpg",
+"storyLink": "columbus web group weekend workshop intro to javascript"
+},
+{
+"id": "56ad0b47d5557cef4bbabd14",
+"headline": "Finding An Excellent Work Culture",
+"timePosted": 1454181191331,
+"link": "http://spaceninja.com/2015/05/04/job-values/",
+"metaDescription": "",
+"description": "undefined",
+"rank": 2,
+"upVotes": [
+{
+"upVotedBy": "55fc3b6f9454f66f44fd49ee",
+"upVotedByUsername": "tommygebru"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/7606025?v=3",
+"userId": "55fc3b6f9454f66f44fd49ee",
+"username": "tommygebru"
+},
+"image": "",
+"storyLink": "finding an excellent work culture"
+},
+{
+"id": "56ac920958089d0a4ccb1827",
+"headline": "Kobra.io - A place to edit your code , chat and collaborate with others, in real time.",
+"timePosted": 1454150153504,
+"link": "https://kobra.io/",
+"metaDescription": "Kobra is the easiest way to collaborate on code quickly. Just paste code, share your unique URL, and collaborate with built in video & voice chat.",
+"description": "undefined",
+"rank": 3,
+"upVotes": [
+{
+"upVotedBy": "56a4f3f72e2a419052b99c21",
+"upVotedByUsername": "medxel"
+},
+{
+"upVotedBy": "55293f5c20083a0b00f5fb72",
+"upVotedByUsername": "cherylu"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/16912943?v=3",
+"userId": "56a4f3f72e2a419052b99c21",
+"username": "medxel"
+},
+"image": "",
+"storyLink": "kobraio a place to edit your code chat and collaborate with others in real time"
+},
+{
+"id": "56ad08c5025377cd4c336637",
+"headline": "Design Pattern: The Singletons Pattern - How to use in the right way",
+"timePosted": 1454180549159,
+"link": "http://webtechsharing.com/singletons-pattern-overview/",
+"metaDescription": "Follow the series topic regarding to Design Patterns Overview, today we will dive in to Singletons Pattern to understand clearly about it.",
+"description": "undefined",
+"rank": 2,
+"upVotes": [
+{
+"upVotedBy": "56a78f411ddcf467549efec5",
+"upVotedByUsername": "chaunh"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/5369715?v=3",
+"userId": "56a78f411ddcf467549efec5",
+"username": "chaunh"
+},
+"image": "http://webtechsharing.com/wp-content/uploads/2016/01/singleton.jpg",
+"storyLink": "design pattern the singletons pattern how to use in the right way"
+},
+{
+"id": "56aac2fa58089d0a4ccb1607",
+"headline": "10 Best PHP Frameworks for PHP Developers",
+"timePosted": 1454031610117,
+"link": "http://www.balharainfotech.com/php-frameworks-for-php-developers/",
+"metaDescription": "PHP is inarguably the most popular and the most widely used server scripting language. Ever since its introduction as the inline code in the HTML files, the",
+"description": "undefined",
+"rank": 14,
+"upVotes": [
+{
+"upVotedBy": "5695b616e7a531ff27ae3b6b",
+"upVotedByUsername": "balharainfotech"
+},
+{
+"upVotedBy": "55dc7465272b30462c7d55bb",
+"upVotedByUsername": "hidimba360"
+},
+{
+"upVotedBy": "562f60779b880efb35ace110",
+"upVotedByUsername": "rahulsmo"
+},
+{
+"upVotedBy": "562f607b75e2e8a9350b9247",
+"upVotedByUsername": "marksmo"
+},
+{
+"upVotedBy": "56a63c7475e7c0365353b1e9",
+"upVotedByUsername": "abhitonysmile"
+},
+{
+"upVotedBy": "567b2b03cbd222ad657463ef",
+"upVotedByUsername": "mintyme777"
+},
+{
+"upVotedBy": "56aa3cb2025377cd4c3362bc",
+"upVotedByUsername": "adrianchira"
+},
+{
+"upVotedBy": "56aa3cb2025377cd4c3362bc",
+"upVotedByUsername": "adrianchira"
+},
+{
+"upVotedBy": "56aa3cb2025377cd4c3362bc",
+"upVotedByUsername": "adrianchira"
+},
+{
+"upVotedBy": "56a82218f42999d15348e6f2",
+"upVotedByUsername": "pjalmighty42"
+},
+{
+"upVotedBy": "56a5f0ca905658dc53a526a8",
+"upVotedByUsername": "csegate2"
+},
+{
+"upVotedBy": "56819588328b452744f331d5",
+"upVotedByUsername": "fcc695b99aa"
+},
+{
+"upVotedBy": "55293f5c20083a0b00f5fb72",
+"upVotedByUsername": "cherylu"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/16677478?v=3",
+"userId": "5695b616e7a531ff27ae3b6b",
+"username": "balharainfotech"
+},
+"image": "http://www.balharainfotech.com/wp-content/uploads/2016/01/php-frameworks10.jpg",
+"storyLink": "10 best php frameworks for php developers"
+},
+{
+"id": "56abb97fd1c119b24c18dea4",
+"headline": "The Traits Of A Successful Developer",
+"timePosted": 1454094719916,
+"link": "https://www.switchup.org/blog/3-personality-traits-of-successful-web-developers",
+"metaDescription": "",
+"description": "undefined",
+"rank": 6,
+"upVotes": [
+{
+"upVotedBy": "55fc3b6f9454f66f44fd49ee",
+"upVotedByUsername": "tommygebru"
+},
+{
+"upVotedBy": "55293f5c20083a0b00f5fb72",
+"upVotedByUsername": "cherylu"
+},
+{
+"upVotedBy": "54fe05dc61db280b0051df92",
+"upVotedByUsername": "mkemo8870"
+},
+{
+"upVotedBy": "56804c4856a3bbec64604cf7",
+"upVotedByUsername": "francinehouston"
+},
+{
+"upVotedBy": "557a9f516dfc9e986f277671",
+"upVotedByUsername": "joshjenkins6"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/7606025?v=3",
+"userId": "55fc3b6f9454f66f44fd49ee",
+"username": "tommygebru"
+},
+"image": "https://www.switchup.org/assets/switcher-bg-c94dcd081202e4e06151673e81e5cc6d.jpg",
+"storyLink": "the traits of a successful developer"
+},
+{
+"id": "56ace45c073893644b95ad6a",
+"headline": "Promises - Thinkster",
+"timePosted": 1454171228893,
+"link": "https://thinkster.io/a-better-way-to-learn-angularjs/promises",
+"metaDescription": "",
+"description": "undefined",
+"rank": 2,
+"upVotes": [
+{
+"upVotedBy": "55b63a49e8e8d289405b29e0",
+"upVotedByUsername": "cybot1711"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/8877178?v=3",
+"userId": "55b63a49e8e8d289405b29e0",
+"username": "cybot1711"
+},
+"image": "",
+"storyLink": "promises thinkster"
+},
+{
+"id": "56acc5f0073893644b95ad24",
+"headline": "How to Start a Startup: Lectures (2014)",
+"timePosted": 1454163440328,
+"link": "http://startupclass.samaltman.com/",
+"metaDescription": "",
+"description": "undefined",
+"rank": 2,
+"upVotes": [
+{
+"upVotedBy": "55a0fafad9e6d9240c6a3735",
+"upVotedByUsername": "guptarohit"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/7895001?v=3",
+"userId": "55a0fafad9e6d9240c6a3735",
+"username": "guptarohit"
+},
+"image": "",
+"storyLink": "how to start a startup lectures 2014"
+},
+{
+"id": "56acc3dc58089d0a4ccb1854",
+"headline": "百度一下，你就知道",
+"timePosted": 1454162908826,
+"link": "https://www.baidu.com/",
+"metaDescription": "",
+"description": "undefined",
+"rank": 2,
+"upVotes": [
+{
+"upVotedBy": "56a716b739cadab45346071e",
+"upVotedByUsername": "lining-1986"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/16893720?v=3",
+"userId": "56a716b739cadab45346071e",
+"username": "lining-1986"
+},
+"image": "",
+"storyLink": ""
+},
+{
+"id": "56abb04f073893644b95ac1d",
+"headline": "Best Free Programming Books | Toptal",
+"timePosted": 1454092367935,
+"link": "http://www.toptal.com/software/toptal-s-list-of-top-free-programming-books",
+"metaDescription": "Today, we will be taking a quick look at something useful and down to earth: free online programming books.",
+"description": "undefined",
+"rank": 5,
+"upVotes": [
+{
+"upVotedBy": "54e4c60f2adadf0b0011d0e2",
+"upVotedByUsername": "wildlifehexagon"
+},
+{
+"upVotedBy": "56819588328b452744f331d5",
+"upVotedByUsername": "fcc695b99aa"
+},
+{
+"upVotedBy": "55293f5c20083a0b00f5fb72",
+"upVotedByUsername": "cherylu"
+},
+{
+"upVotedBy": "565e2324608b77dd506c08c7",
+"upVotedByUsername": "garrettjeffrey"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/13489381?v=3",
+"userId": "54e4c60f2adadf0b0011d0e2",
+"username": "wildlifehexagon"
+},
+"image": "http://assets.toptal.io/uploads/blog/post_image/90219/812nermin-01-a6b48be9829ded0057a90930cc0413a5.jpg",
+"storyLink": "best free programming books toptal"
+},
+{
+"id": "56acb20443c081954c6b91c0",
+"headline": "Best CSS Frameworks - Bootstrap vs Foundation vs Skeleton?",
+"timePosted": 1454158340961,
+"link": "http://customwebsitedevelopement.blogspot.com/2016/01/best-css-frameworks-bootstrap-vs-foundation-vs-skeleton.html",
+"metaDescription": "Each of these frameworks has certain strong features subsequent to the weak points, a developer must be aware of both sides to make a better choice between these three widely used frameworks.",
+"description": "undefined",
+"rank": 2,
+"upVotes": [
+{
+"upVotedBy": "55d595557b1046165a845658",
+"upVotedByUsername": "jameswilliam723"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/13884313?v=3",
+"userId": "55d595557b1046165a845658",
+"username": "jameswilliam723"
+},
+"image": "http://2.bp.blogspot.com/-h94uj015jss/VqnFmnJECoI/AAAAAAAAAxw/MCGqr69aJVc/s1600/Bootstrap-vs-Foundation-vs-Skeleton.png",
+"storyLink": "best css frameworks bootstrap vs foundation vs skeleton"
+},
+{
+"id": "56acae46d5557cef4bbabc91",
+"headline": "15 Best jQuery JSON Plugins",
+"timePosted": 1454157382091,
+"link": "https://codegeekz.com/15-best-jquery-json-plugins/",
+"metaDescription": "JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and",
+"description": "undefined",
+"rank": 2,
+"upVotes": [
+{
+"upVotedBy": "55fd85987f141c8b1ac127ad",
+"upVotedByUsername": "erkand-imeri"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/14806022?v=3",
+"userId": "55fd85987f141c8b1ac127ad",
+"username": "erkand-imeri"
+},
+"image": "https://codegeekz.com/wp-content/uploads/json-slider.jpeg",
+"storyLink": "15 best jquery json plugins"
+},
+{
+"id": "56acad9c025377cd4c3365b8",
+"headline": "10 jQuery Plugins to Play With JSON | Learning jQuery",
+"timePosted": 1454157212174,
+"link": "http://www.learningjquery.com/2016/01/10-jquery-plugins-to-play-with-json",
+"metaDescription": "10 jQuery Plugins to Play With JSON at Learning jQuery",
+"description": "undefined",
+"rank": 2,
+"upVotes": [
+{
+"upVotedBy": "55fd85987f141c8b1ac127ad",
+"upVotedByUsername": "erkand-imeri"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/14806022?v=3",
+"userId": "55fd85987f141c8b1ac127ad",
+"username": "erkand-imeri"
+},
+"image": "",
+"storyLink": "10 jquery plugins to play with json learning jquery"
+},
+{
+"id": "56ac1339025377cd4c336542",
+"headline": "Opinion: If Flash is dead, is HTML5 now ready for the big time? - Developer Tech",
+"timePosted": 1454117689054,
+"link": "http://www.developer-tech.com/news/2016/jan/26/if-flash-dead-html5-now-ready-big-time/",
+"metaDescription": "Flash is all but dead - but is HTML5 ready to take its place?.",
+"description": "undefined",
+"rank": 3,
+"upVotes": [
+{
+"upVotedBy": "5619cf33fd70d5b75185dd56",
+"upVotedByUsername": "elp1987"
+},
+{
+"upVotedBy": "56819588328b452744f331d5",
+"upVotedByUsername": "fcc695b99aa"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/16160548?v=3",
+"userId": "5619cf33fd70d5b75185dd56",
+"username": "elp1987"
+},
+"image": "http://www.developer-tech.com/media/img/news/6441607321_39cf0ae9bc_o.jpg.600x600_q96.png",
+"storyLink": "opinion if flash is dead is html5 now ready for the big time developer tech"
+},
+{
+"id": "56abb5f3d1c119b24c18dea1",
+"headline": "6 Tips for Becoming a Better JavaScript Developer",
+"timePosted": 1454093811098,
+"link": "http://codecondo.com/becoming-a-better-javascript-developer/",
+"metaDescription": "",
+"description": "undefined",
+"rank": 4,
+"upVotes": [
+{
+"upVotedBy": "5677763f56a3bbec64604572",
+"upVotedByUsername": "shahidfoy"
+},
+{
+"upVotedBy": "55293f5c20083a0b00f5fb72",
+"upVotedByUsername": "cherylu"
+},
+{
+"upVotedBy": "56962a53e7a531ff27ae3be3",
+"upVotedByUsername": "madxhatter"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/12647062?v=3",
+"userId": "5677763f56a3bbec64604572",
+"username": "shahidfoy"
+},
+"image": "http://codecondo.com/wp-content/uploads/2014/08/10-Tips-for-Becoming-a-Better-JavaScript-Developer.jpg",
+"storyLink": "6 tips for becoming a better javascript developer"
+},
+{
+"id": "56ac5eba58089d0a4ccb17f4",
+"headline": "What is GraphQL?",
+"timePosted": 1454137018701,
+"link": "http://justmeteor.com/blog/what-is-graphql/?utm_campaign=Adoption%3A%20Developer&utm_content=27462024&utm_medium=social&utm_source=twitter",
+"metaDescription": "If you've followed the Meteor community recently you might have stumbled upon different blog posts and discussions about GraphQL, a new kid on the block in",
+"description": "undefined",
+"rank": 2,
+"upVotes": [
+{
+"upVotedBy": "55cdafd4182f96cf440a3695",
+"upVotedByUsername": "sonyamoisset"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/13507232?v=3",
+"userId": "55cdafd4182f96cf440a3695",
+"username": "sonyamoisset"
+},
+"image": "",
+"storyLink": "what is graphql"
+},
+{
+"id": "56ac5e93d5557cef4bbabc59",
+"headline": "Bulma: a modern CSS framework",
+"timePosted": 1454136979254,
+"link": "http://bulma.io/",
+"metaDescription": "Bulma is a CSS framework based on Flexbox and built with Sass\n",
+"description": "undefined",
+"rank": 2,
+"upVotes": [
+{
+"upVotedBy": "55cdafd4182f96cf440a3695",
+"upVotedByUsername": "sonyamoisset"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/13507232?v=3",
+"userId": "55cdafd4182f96cf440a3695",
+"username": "sonyamoisset"
+},
+"image": "",
+"storyLink": "bulma a modern css framework"
+},
+{
+"id": "56ac4e4143c081954c6b9155",
+"headline": "How to Implement Node + React Isomorphic JavaScript &amp; Why it Matters",
+"timePosted": 1454132801575,
+"link": "https://strongloop.com/strongblog/node-js-react-isomorphic-javascript-why-it-matters/",
+"metaDescription": "",
+"description": "undefined",
+"rank": 2,
+"upVotes": [
+{
+"upVotedBy": "5687f9bd8d80a9b453dad577",
+"upVotedByUsername": "diptajbasu"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/7990216?v=3",
+"userId": "5687f9bd8d80a9b453dad577",
+"username": "diptajbasu"
+},
+"image": "",
+"storyLink": "how to implement node react isomorphic javascript why it matters"
+},
+{
+"id": "56a8ef0208938ad052efe913",
+"headline": "10 golden rules for becoming a better programmer",
+"timePosted": 1453911810184,
+"link": "http://www.codeshare.co.uk/blog/10-golden-rules-for-becoming-a-better-programmer/",
+"metaDescription": "",
+"description": "undefined",
+"rank": 38,
+"upVotes": [
+{
+"upVotedBy": "554fca8f20873e9d4c2a4845",
+"upVotedByUsername": "macengr"
+},
+{
+"upVotedBy": "56a92f71d5557cef4bbab823",
+"upVotedByUsername": "fccbc600820"
+},
+{
+"upVotedBy": "54fe05dc61db280b0051df92",
+"upVotedByUsername": "mkemo8870"
+},
+{
+"upVotedBy": "56a7ef1e1ddcf467549eff81",
+"upVotedByUsername": "marcelonevesa"
+},
+{
+"upVotedBy": "5663a525a3aa39a4264ec431",
+"upVotedByUsername": "matchartier"
+},
+{
+"upVotedBy": "56a94d99d1c119b24c18db6e",
+"upVotedByUsername": "rushh"
+},
+{
+"upVotedBy": "564c32d33792d83865fdf9ab",
+"upVotedByUsername": "mubashirhusain"
+},
+{
+"upVotedBy": "56a1e08aef22a6413cc3a141",
+"upVotedByUsername": "kasraj"
+},
+{
+"upVotedBy": "56a8ac3908938ad052efe8a5",
+"upVotedByUsername": "freecodecampnayu"
+},
+{
+"upVotedBy": "56a8ac3908938ad052efe8a5",
+"upVotedByUsername": "freecodecampnayu"
+},
+{
+"upVotedBy": "56a7a87d39cadab453460805",
+"upVotedByUsername": "nikapart"
+},
+{
+"upVotedBy": "55fc49f03c1efc6544aed373",
+"upVotedByUsername": "victoriousj"
+},
+{
+"upVotedBy": "55ca2bbb67619fe102561369",
+"upVotedByUsername": "smikis"
+},
+{
+"upVotedBy": "5677763f56a3bbec64604572",
+"upVotedByUsername": "shahidfoy"
+},
+{
+"upVotedBy": "56aa5599d1c119b24c18dcc9",
+"upVotedByUsername": "1234576"
+},
+{
+"upVotedBy": "56a1b036ef22a6413cc3a0ec",
+"upVotedByUsername": "joan-of-snark"
+},
+{
+"upVotedBy": "56aa1096d1c119b24c18dc6b",
+"upVotedByUsername": "tajammul1996"
+},
+{
+"upVotedBy": "56aa9f9358089d0a4ccb15c9",
+"upVotedByUsername": "bencodrington"
+},
+{
+"upVotedBy": "56a4ae07b161a35153c74624",
+"upVotedByUsername": "webdevpr0"
+},
+{
+"upVotedBy": "567ed1bccbd222ad657466af",
+"upVotedByUsername": "navinkumarkg"
+},
+{
+"upVotedBy": "56a50777e8317a75520f40a2",
+"upVotedByUsername": "illshowthemall"
+},
+{
+"upVotedBy": "55841351abe649512dec90f2",
+"upVotedByUsername": "ferzx"
+},
+{
+"upVotedBy": "569a1fb1e190842d698ce7af",
+"upVotedByUsername": "gautamkumar94"
+},
+{
+"upVotedBy": "56a6584ab161a35153c74861",
+"upVotedByUsername": "fcc067e258a"
+},
+{
+"upVotedBy": "56a17808b18c6aab3d216eb1",
+"upVotedByUsername": "alymdrictels"
+},
+{
+"upVotedBy": "569f9bcbf2bdd21f3d4a9f87",
+"upVotedByUsername": "webprofi"
+},
+{
+"upVotedBy": "56a10fd0f2bdd21f3d4aa1a5",
+"upVotedByUsername": "swapan-yafail"
+},
+{
+"upVotedBy": "56aa430c025377cd4c3362c2",
+"upVotedByUsername": "ferferny"
+},
+{
+"upVotedBy": "56a82218f42999d15348e6f2",
+"upVotedByUsername": "pjalmighty42"
+},
+{
+"upVotedBy": "5599a162d7e9864f54ee97b5",
+"upVotedByUsername": "california674"
+},
+{
+"upVotedBy": "56a5f0ca905658dc53a526a8",
+"upVotedByUsername": "csegate2"
+},
+{
+"upVotedBy": "56459daddf04666b781bbc40",
+"upVotedByUsername": "lukssone"
+},
+{
+"upVotedBy": "5660002e9e73bc35357db94f",
+"upVotedByUsername": "saraswatirayana"
+},
+{
+"upVotedBy": "56819588328b452744f331d5",
+"upVotedByUsername": "fcc695b99aa"
+},
+{
+"upVotedBy": "567e330543a901226507040d",
+"upVotedByUsername": "imccommons"
+},
+{
+"upVotedBy": "565e2324608b77dd506c08c7",
+"upVotedByUsername": "garrettjeffrey"
+},
+{
+"upVotedBy": "56868493ee16d210535b2090",
+"upVotedByUsername": "jundc1006"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/8150967?v=3",
+"userId": "554fca8f20873e9d4c2a4845",
+"username": "macengr"
+},
+"image": "http://www.codeshare.co.uk/media/7791/4f87cf1c746b409f6bc2bef9684fece4.jpg?width=1910&height=1000&mode=crop&anchor=center&brightness=-20",
+"storyLink": "10 golden rules for becoming a better programmer"
+},
+{
+"id": "56ac3a6043c081954c6b913f",
+"headline": "It's a Riot! Time to get over React:  introducing  Riot.js — A React-like  micro-library  ",
+"timePosted": 1454127712380,
+"link": "http://riotjs.com/",
+"metaDescription": "Riot lets you build user interfaces with custom tags using simple and enjoyable syntax. It uses a virtual DOM similar to React but faster. Riot is very tiny compared to industry standards. We think there is a clear need for another UI library.",
+"description": "undefined",
+"rank": 2,
+"upVotes": [
+{
+"upVotedBy": "550ae8fb708c270b00e60460",
+"upVotedByUsername": "cramjet"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/7691076?v=3",
+"userId": "550ae8fb708c270b00e60460",
+"username": "cramjet"
+},
+"image": "",
+"storyLink": "its a riot time to get over react introducing riotjs a reactlike microlibrary"
+},
+{
+"id": "56aa7209d5557cef4bbab9ff",
+"headline": "Johnny-Five: The JavaScript Robotics Programming Framework {A new way to use JS}",
+"timePosted": 1454010889133,
+"link": "http://johnny-five.io/",
+"metaDescription": "Johnny-Five is the JavaScript robotics programming framework",
+"description": "undefined",
+"rank": 9,
+"upVotes": [
+{
+"upVotedBy": "565dfe98379235c450023546",
+"upVotedByUsername": "syedirfan7"
+},
+{
+"upVotedBy": "550623d95484ef0b00259b0b",
+"upVotedByUsername": "brendansweeny"
+},
+{
+"upVotedBy": "55e324dba538f8161effd0ea",
+"upVotedByUsername": "josephg60"
+},
+{
+"upVotedBy": "55d1bd9b2bce01a7354260c5",
+"upVotedByUsername": "jeremiahh117"
+},
+{
+"upVotedBy": "550a2f8814559c0b0075449e",
+"upVotedByUsername": "timrizzo"
+},
+{
+"upVotedBy": "565e2324608b77dd506c08c7",
+"upVotedByUsername": "garrettjeffrey"
+},
+{
+"upVotedBy": "567689dbcbd222ad65745fbb",
+"upVotedByUsername": "harishsun"
+},
+{
+"upVotedBy": "55293f5c20083a0b00f5fb72",
+"upVotedByUsername": "cherylu"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/6966314?v=3",
+"userId": "565dfe98379235c450023546",
+"username": "syedirfan7"
+},
+"image": "http://johnny-five.io/img/static/johnny-five-fb.png",
+"storyLink": "johnnyfive the javascript robotics programming framework a new way to use js"
+},
+{
+"id": "56aba3f2d5557cef4bbabb8a",
+"headline": "Great description of a bug-fix in the Atom text editor",
+"timePosted": 1454089202068,
+"link": "http://davidvgalbraith.com/how-i-fixed-atom/",
+"metaDescription": "",
+"description": "undefined",
+"rank": 3,
+"upVotes": [
+{
+"upVotedBy": "558305a585d50e3e5de5a463",
+"upVotedByUsername": "yednaps"
+},
+{
+"upVotedBy": "56a4f3f72e2a419052b99c21",
+"upVotedByUsername": "medxel"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/1047967?v=3",
+"userId": "558305a585d50e3e5de5a463",
+"username": "yednaps"
+},
+"image": "",
+"storyLink": "great description of a bugfix in the atom text editor"
+},
+{
+"id": "56aa5db743c081954c6b8f14",
+"headline": "To the Nine-nine-ninety-nines — Free Code Camp — Medium",
+"timePosted": 1454005687244,
+"link": "https://medium.freecodecamp.com/to-the-nine-nine-ninety-nines-9f6b08be72df#.7fj1oqlc7",
+"metaDescription": "Yesterday GitHub — the center of the open source universe — went down for three hours.",
+"description": "undefined",
+"rank": 9,
+"upVotes": [
+{
+"upVotedBy": "565e2324608b77dd506c08c7",
+"upVotedByUsername": "garrettjeffrey"
+},
+{
+"upVotedBy": "55ea0842833b537a57052be2",
+"upVotedByUsername": "ktakats"
+},
+{
+"upVotedBy": "55c1432a30f20f133a6cc22d",
+"upVotedByUsername": "masya120"
+},
+{
+"upVotedBy": "555f2690053025c556773b93",
+"upVotedByUsername": "jobah"
+},
+{
+"upVotedBy": "54fe05dc61db280b0051df92",
+"upVotedByUsername": "mkemo8870"
+},
+{
+"upVotedBy": "563a3ad9fe569a3a05e46b31",
+"upVotedByUsername": "robeerob"
+},
+{
+"upVotedBy": "55a19a858404cb2b0c43e01b",
+"upVotedByUsername": "brasa619"
+},
+{
+"upVotedBy": "56a856992c637b9553429646",
+"upVotedByUsername": "weslez"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/9309089?v=3",
+"userId": "565e2324608b77dd506c08c7",
+"username": "garrettjeffrey"
+},
+"image": "https://cdn-images-1.medium.com/max/800/1*3TUkJkWK5YyV4OTFKzomKA.jpeg",
+"storyLink": "to the ninenineninetynines free code camp medium"
+},
+{
+"id": "56ab9dc358089d0a4ccb170e",
+"headline": "5 Design Tools to Help You Build Your App — Medium",
+"timePosted": 1454087619504,
+"link": "https://medium.com/@producthunt/5-design-tools-to-help-you-build-your-app-6bee5c7e042e#.vd49dd8wn",
+"metaDescription": "In 2015, one of the biggest maker trends we saw on Product Hunt was the creation of tools to help people make it easier …",
+"description": "undefined",
+"rank": 3,
+"upVotes": [
+{
+"upVotedBy": "54fe05dc61db280b0051df92",
+"upVotedByUsername": "mkemo8870"
+},
+{
+"upVotedBy": "55293f5c20083a0b00f5fb72",
+"upVotedByUsername": "cherylu"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/12566878?v=3",
+"userId": "54fe05dc61db280b0051df92",
+"username": "mkemo8870"
+},
+"image": "https://cdn-images-1.medium.com/max/800/1*eIRJ7hOFhrfyftvgTKKcQg.jpeg",
+"storyLink": "5 design tools to help you build your app medium"
+},
+{
+"id": "56ab9a4043c081954c6b908b",
+"headline": "Combining UX Design And Psychology To Change User Behavior – Smashing Magazine",
+"timePosted": 1454086720444,
+"link": "https://www.smashingmagazine.com/2016/01/combining-ux-design-and-psychology-to-change-user-behavior/",
+"metaDescription": "What drives human behavior, and how can you use these insights along with UX practices to change how users interact with your site? Guidelines and tips.",
+"description": "undefined",
+"rank": 3,
+"upVotes": [
+{
+"upVotedBy": "5600591b21c2e8493f1cb0a1",
+"upVotedByUsername": "cyclokitty"
+},
+{
+"upVotedBy": "55293f5c20083a0b00f5fb72",
+"upVotedByUsername": "cherylu"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/14623520?v=3",
+"userId": "5600591b21c2e8493f1cb0a1",
+"username": "cyclokitty"
+},
+"image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2016/01/image3-opt-preview.png",
+"storyLink": "combining ux design and psychology to change user behavior smashing magazine"
+},
+{
+"id": "56ab99d843c081954c6b908a",
+"headline": "★ “Busting Myths and Horror Stories Of Designing For The Web!” ★ – Smashing Magazine",
+"timePosted": 1454086616323,
+"link": "https://www.smashingmagazine.com/2016/01/busting-myths-horror-stories-designing-web-smashingconf-new-york/",
+"metaDescription": "Hear, hear! SmashingConf NYC 2016 is coming! A spectacular performance about failures, successes and superpowers in front-end and UX — now on Broadway! A flabbergasting show on fascinating endeavours in web design, with busted myths, horror design stories and wisdom gained from daunting real-life struggles! Don't miss the most remarkable show of the year!    Can you dispel the truth from the lies? Honesty from deception? Myths from heartbreaking real-life experience? Have you figured out responsive design, mobile, pattern libraries, SVG, flexbox, performance, HTTP/2 — and all of the other mischievous, erratic facets of designing for the web today?",
+"description": "undefined",
+"rank": 3,
+"upVotes": [
+{
+"upVotedBy": "5600591b21c2e8493f1cb0a1",
+"upVotedByUsername": "cyclokitty"
+},
+{
+"upVotedBy": "55293f5c20083a0b00f5fb72",
+"upVotedByUsername": "cherylu"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/14623520?v=3",
+"userId": "5600591b21c2e8493f1cb0a1",
+"username": "cyclokitty"
+},
+"image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2016/01/cat-500.png",
+"storyLink": "busting myths and horror stories of designing for the web smashing magazine"
+},
+{
+"id": "56ab8fbdd5557cef4bbabb6f",
+"headline": "There Is No Such Thing As Luck — Medium",
+"timePosted": 1454084029396,
+"link": "https://medium.com/@sim_gobb/there-is-no-such-thing-as-luck-fb63fc0632b9#.e0lp7cgbk",
+"metaDescription": "“You are so lucky! You have found your dream job. What could you ask for more?”",
+"description": "undefined",
+"rank": 3,
+"upVotes": [
+{
+"upVotedBy": "565e2324608b77dd506c08c7",
+"upVotedByUsername": "garrettjeffrey"
+},
+{
+"upVotedBy": "56a6584ab161a35153c74861",
+"upVotedByUsername": "fcc067e258a"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/9309089?v=3",
+"userId": "565e2324608b77dd506c08c7",
+"username": "garrettjeffrey"
+},
+"image": "https://cdn-images-1.medium.com/max/800/1*7m6PtgjGoLGBRtPyp8eJpA.jpeg",
+"storyLink": "there is no such thing as luck medium"
+},
+{
+"id": "56aa7019073893644b95aa82",
+"headline": "20+ Docs and Guides for Front-end Developers (No. 7)",
+"timePosted": 1454010393632,
+"link": "http://www.sitepoint.com/20-docs-guides-front-end-developers-7/",
+"metaDescription": "Louis Lazaris presents the 7th installment of this series featuring another more than 20 learning resources for front-end developers.",
+"description": "undefined",
+"rank": 8,
+"upVotes": [
+{
+"upVotedBy": "5663a525a3aa39a4264ec431",
+"upVotedByUsername": "matchartier"
+},
+{
+"upVotedBy": "567ed1bccbd222ad657466af",
+"upVotedByUsername": "navinkumarkg"
+},
+{
+"upVotedBy": "55e324dba538f8161effd0ea",
+"upVotedByUsername": "josephg60"
+},
+{
+"upVotedBy": "55d1bd9b2bce01a7354260c5",
+"upVotedByUsername": "jeremiahh117"
+},
+{
+"upVotedBy": "555f2690053025c556773b93",
+"upVotedByUsername": "jobah"
+},
+{
+"upVotedBy": "55f44d48053e13720170d33a",
+"upVotedByUsername": "npkonstan"
+},
+{
+"upVotedBy": "55293f5c20083a0b00f5fb72",
+"upVotedByUsername": "cherylu"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/90409?v=3",
+"userId": "5663a525a3aa39a4264ec431",
+"username": "matchartier"
+},
+"image": "http://www.sitepoint.com/wp-content/themes/sitepoint/assets/images/icon.html-css.png",
+"storyLink": "20 docs and guides for frontend developers no 7"
+},
+{
+"id": "56ab6cda025377cd4c33647a",
+"headline": "Stuff Everybody Knows Except You",
+"timePosted": 1454075098639,
+"link": "https://www.youtube.com/watch?v=NWo-RIHiEJ4",
+"metaDescription": "Laurie Voss is the CTO of NPM. This is his third time speaking to Hack Reactor students and we are delighted to have him back!",
+"description": "undefined",
+"rank": 3,
+"upVotes": [
+{
+"upVotedBy": "552edb4014e4bf0b000e6c99",
+"upVotedByUsername": "sok213"
+},
+{
+"upVotedBy": "5699fb188ef2f69b754ead08",
+"upVotedByUsername": "munishtayal"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/8195814?v=3",
+"userId": "552edb4014e4bf0b000e6c99",
+"username": "sok213"
+},
+"image": "https://i.ytimg.com/vi/NWo-RIHiEJ4/hqdefault.jpg",
+"storyLink": "stuff everybody knows except you"
+},
+{
+"id": "56aac603d1c119b24c18dd7f",
+"headline": "We're living in the golden age of software development | InfoWorld",
+"timePosted": 1454032387031,
+"link": "http://www.infoworld.com/article/3027160/application-development/were-living-in-the-golden-age-of-software-development.html",
+"metaDescription": "With an unprecedented choice of tools, languages, platforms, and architectural styles, developers are creating a wildly inventive, software-defined world",
+"description": "undefined",
+"rank": 5,
+"upVotes": [
+{
+"upVotedBy": "5619cf33fd70d5b75185dd56",
+"upVotedByUsername": "elp1987"
+},
+{
+"upVotedBy": "56ab87c4025377cd4c33649b",
+"upVotedByUsername": "xkryssie"
+},
+{
+"upVotedBy": "55293f5c20083a0b00f5fb72",
+"upVotedByUsername": "cherylu"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/16160548?v=3",
+"userId": "5619cf33fd70d5b75185dd56",
+"username": "elp1987"
+},
+"image": "http://images.techhive.com/images/article/2015/08/thinkstockphotos-172588019-100609705-primary.idge.jpg",
+"storyLink": "were living in the golden age of software development infoworld"
+},
+{
+"id": "56aafe94073893644b95ab48",
+"headline": "Best coding practices - Wikipedia, the free encyclopedia",
+"timePosted": 1454046868896,
+"link": "https://en.wikipedia.org/wiki/Best_coding_practices",
+"metaDescription": "",
+"description": "undefined",
+"rank": 4,
+"upVotes": [
+{
+"upVotedBy": "5634ce38306a67d61c775526",
+"upVotedByUsername": "brainyfarm"
+},
+{
+"upVotedBy": "56a856992c637b9553429646",
+"upVotedByUsername": "weslez"
+},
+{
+"upVotedBy": "55293f5c20083a0b00f5fb72",
+"upVotedByUsername": "cherylu"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/11624587?v=3",
+"userId": "5634ce38306a67d61c775526",
+"username": "brainyfarm"
+},
+"image": "",
+"storyLink": "best coding practices wikipedia the free encyclopedia"
+},
+{
+"id": "56a8162939cadab45346088d",
+"headline": "JavaScript Tips – A JS tip per day!",
+"timePosted": 1453856297751,
+"link": "http://www.jstips.co/",
+"metaDescription": "A JS tip per day!",
+"description": "undefined",
+"rank": 50,
+"upVotes": [
+{
+"upVotedBy": "55cdafd4182f96cf440a3695",
+"upVotedByUsername": "sonyamoisset"
+},
+{
+"upVotedBy": "5687f9bd8d80a9b453dad577",
+"upVotedByUsername": "diptajbasu"
+},
+{
+"upVotedBy": "559f1a6e7c55ed707db7b6be",
+"upVotedByUsername": "blurred"
+},
+{
+"upVotedBy": "56a8305039cadab4534608c1",
+"upVotedByUsername": "ldwx"
+},
+{
+"upVotedBy": "5655c6af8b55f60a592378d4",
+"upVotedByUsername": "rusticman"
+},
+{
+"upVotedBy": "566feea1c76bf4137569e14a",
+"upVotedByUsername": "fcc42f8d320"
+},
+{
+"upVotedBy": "566feea1c76bf4137569e14a",
+"upVotedByUsername": "tosin27"
+},
+{
+"upVotedBy": "569ec82db18c6aab3d216b05",
+"upVotedByUsername": "fcc0e05e06c"
+},
+{
+"upVotedBy": "56a0891ef2bdd21f3d4aa0d8",
+"upVotedByUsername": "marius780"
+},
+{
+"upVotedBy": "565e2324608b77dd506c08c7",
+"upVotedByUsername": "garrettjeffrey"
+},
+{
+"upVotedBy": "567e9b1956a3bbec64604b90",
+"upVotedByUsername": "kura2"
+},
+{
+"upVotedBy": "5693e43133e2bd223581fa4d",
+"upVotedByUsername": "prusso"
+},
+{
+"upVotedBy": "554fca8f20873e9d4c2a4845",
+"upVotedByUsername": "macengr"
+},
+{
+"upVotedBy": "55f20ee981081ab84fa028b3",
+"upVotedByUsername": "gilbertjacke"
+},
+{
+"upVotedBy": "56a87b152c637b955342967e",
+"upVotedByUsername": "hazaard"
+},
+{
+"upVotedBy": "559ec226ba85c0db72e112b2",
+"upVotedByUsername": "dzsobacsi"
+},
+{
+"upVotedBy": "56a17758ef22a6413cc3a090",
+"upVotedByUsername": "fcc777d9fe1"
+},
+{
+"upVotedBy": "56a21bd1cd9b8c043de77def",
+"upVotedByUsername": "prosdkr"
+},
+{
+"upVotedBy": "54fe05dc61db280b0051df92",
+"upVotedByUsername": "mkemo8870"
+},
+{
+"upVotedBy": "555f2c679dc03dda56ab2815",
+"upVotedByUsername": "judylw"
+},
+{
+"upVotedBy": "56694e2e3e6c508d731f6c1e",
+"upVotedByUsername": "hotin1503"
+},
+{
+"upVotedBy": "565f34b4547dfba92469fc95",
+"upVotedByUsername": "renzit"
+},
+{
+"upVotedBy": "5681fe8d5406af0c440d3de8",
+"upVotedByUsername": "randomlyknighted"
+},
+{
+"upVotedBy": "56a2e9faef22a6413cc3a2a7",
+"upVotedByUsername": "fcc7899a61a"
+},
+{
+"upVotedBy": "56a640c675e7c0365353b1f9",
+"upVotedByUsername": "azat55"
+},
+{
+"upVotedBy": "56a640c675e7c0365353b1f9",
+"upVotedByUsername": "azat55"
+},
+{
+"upVotedBy": "56a1e08aef22a6413cc3a141",
+"upVotedByUsername": "kasraj"
+},
+{
+"upVotedBy": "56a7a87d39cadab453460805",
+"upVotedByUsername": "nikapart"
+},
+{
+"upVotedBy": "565a2bc27fe3a8f41eb674f0",
+"upVotedByUsername": "zerelt"
+},
+{
+"upVotedBy": "565a2bc27fe3a8f41eb674f0",
+"upVotedByUsername": "zerelt"
+},
+{
+"upVotedBy": "555f2690053025c556773b93",
+"upVotedByUsername": "jobah"
+},
+{
+"upVotedBy": "55ca2bbb67619fe102561369",
+"upVotedByUsername": "smikis"
+},
+{
+"upVotedBy": "568b9163c217e3552804308d",
+"upVotedByUsername": "ferbncode"
+},
+{
+"upVotedBy": "5600591b21c2e8493f1cb0a1",
+"upVotedByUsername": "cyclokitty"
+},
+{
+"upVotedBy": "56987afce7a531ff27ae3e9f",
+"upVotedByUsername": "massiveswag"
+},
+{
+"upVotedBy": "56a780131ddcf467549efea3",
+"upVotedByUsername": "paulluscastro"
+},
+{
+"upVotedBy": "56aa1096d1c119b24c18dc6b",
+"upVotedByUsername": "tajammul1996"
+},
+{
+"upVotedBy": "56aa827558089d0a4ccb1598",
+"upVotedByUsername": "dsousadev"
+},
+{
+"upVotedBy": "56a9b5c358089d0a4ccb1443",
+"upVotedByUsername": "theianchan"
+},
+{
+"upVotedBy": "56a63c7475e7c0365353b1e9",
+"upVotedByUsername": "abhitonysmile"
+},
+{
+"upVotedBy": "562c009075e2e8a9350b8f0e",
+"upVotedByUsername": "david2007"
+},
+{
+"upVotedBy": "569a1fb1e190842d698ce7af",
+"upVotedByUsername": "gautamkumar94"
+},
+{
+"upVotedBy": "55ca065167619fe102561301",
+"upVotedByUsername": "marzelin"
+},
+{
+"upVotedBy": "5661224fd83e73b1418395a7",
+"upVotedByUsername": "catalinscr"
+},
+{
+"upVotedBy": "565174d9146db0fb5ec99d90",
+"upVotedByUsername": "ahneemah"
+},
+{
+"upVotedBy": "56819588328b452744f331d5",
+"upVotedByUsername": "fcc695b99aa"
+},
+{
+"upVotedBy": "55293f5c20083a0b00f5fb72",
+"upVotedByUsername": "cherylu"
+},
+{
+"upVotedBy": "5599913105703f6d4f3c16c5",
+"upVotedByUsername": "jrmfitz"
+},
+{
+"upVotedBy": "54e8e600bc612c0b00eb628b",
+"upVotedByUsername": "adrmob"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/13507232?v=3",
+"userId": "55cdafd4182f96cf440a3695",
+"username": "sonyamoisset"
+},
+"image": "http://www.jstips.co/images/jstips-header-blog-static.png",
+"storyLink": "javascript tips a js tip per day"
+},
+{
+"id": "56ab9e92073893644b95ac07",
+"headline": "xkcd: XKCD Stack",
+"timePosted": 1454087826815,
+"link": "http://xkcd.com/1636/",
+"metaDescription": "",
+"description": "undefined",
+"rank": 2,
+"upVotes": [
+{
+"upVotedBy": "55bba77e3d9863387efcd5a0",
+"upVotedByUsername": "eseesee"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/13591150?v=3",
+"userId": "55bba77e3d9863387efcd5a0",
+"username": "eseesee"
+},
+"image": "",
+"storyLink": "xkcd xkcd stack"
+},
+{
+"id": "56ab9dc158089d0a4ccb170d",
+"headline": "The ONE JavaScript Question You Must Answer",
+"timePosted": 1454087617803,
+"link": "http://codepen.io/doughensel/post/101-one-js-question",
+"metaDescription": "",
+"description": "undefined",
+"rank": 2,
+"upVotes": [
+{
+"upVotedBy": "55a4808b28cf57d35ee9dd66",
+"upVotedByUsername": "oksas"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/13337954?v=3",
+"userId": "55a4808b28cf57d35ee9dd66",
+"username": "oksas"
+},
+"image": "//gravatar.com/avatar/28f287e7c832b18e84a2359250b30161?s=80",
+"storyLink": "the one javascript question you must answer"
+},
+{
+"id": "56ab909b58089d0a4ccb16fe",
+"headline": " Create a really, really simple offline page using Service Workers | Dean Hume ",
+"timePosted": 1454084251941,
+"link": "http://deanhume.com/Home/BlogPost/create-a-really--really-simple-offline-page-using-service-workers/10135?utm_source=javascriptweekly&utm_medium=email",
+"metaDescription": "",
+"description": "undefined",
+"rank": 2,
+"upVotes": [
+{
+"upVotedBy": "54fe05dc61db280b0051df92",
+"upVotedByUsername": "mkemo8870"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/12566878?v=3",
+"userId": "54fe05dc61db280b0051df92",
+"username": "mkemo8870"
+},
+"image": "",
+"storyLink": "create a really really simple offline page using service workers dean hume"
+},
+{
+"id": "56ab0c1f58089d0a4ccb1673",
+"headline": "How to Take the Best Shots from Your iPhone",
+"timePosted": 1454050335622,
+"link": "https://www.livepcgeeks.us/blog/how-to-take-the-best-shots-from-your-iphone/",
+"metaDescription": "",
+"description": "undefined",
+"rank": 3,
+"upVotes": [
+{
+"upVotedBy": "562f60779b880efb35ace110",
+"upVotedByUsername": "rahulsmo"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+},
+{
+"upVotedBy": "55dc7465272b30462c7d55bb",
+"upVotedByUsername": "hidimba360"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/15374878?v=3",
+"userId": "562f60779b880efb35ace110",
+"username": "rahulsmo"
+},
+"image": "",
+"storyLink": "how to take the best shots from your iphone"
+},
+{
+"id": "56ab7e1b073893644b95abd8",
+"headline": "Oracle is finally killing off the Java browser plugin",
+"timePosted": 1454079515574,
+"link": "http://thenextweb.com/apps/2016/01/28/oracle-is-finally-killing-off-the-java-browser-plugin/",
+"metaDescription": "Oracle has announced that it will kill the much-maligned Java browser plugin in the next release of the Java Development Kit, slated for release next year.",
+"description": "undefined",
+"rank": 2,
+"upVotes": [
+{
+"upVotedBy": "564ad671907289944379da1d",
+"upVotedByUsername": "rameshsyn"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/10565954?v=3",
+"userId": "564ad671907289944379da1d",
+"username": "rameshsyn"
+},
+"image": "http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2016/01/shutterstock_177973754_Java.jpg",
+"storyLink": "oracle is finally killing off the java browser plugin"
+},
+{
+"id": "56ab7451d1c119b24c18de43",
+"headline": "In Defense of JavaScript (the Hard Way) | Motherboard",
+"timePosted": 1454077009720,
+"link": "http://motherboard.vice.com/read/in-defense-of-javascript",
+"metaDescription": "JavaScript can teach you programming as well as most any other language, but be wary.",
+"description": "undefined",
+"rank": 2,
+"upVotes": [
+{
+"upVotedBy": "55fd85987f141c8b1ac127ad",
+"upVotedByUsername": "erkand-imeri"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/14806022?v=3",
+"userId": "55fd85987f141c8b1ac127ad",
+"username": "erkand-imeri"
+},
+"image": "http://motherboard-images.vice.com/content-images/article/29673/1453009709154415.jpg",
+"storyLink": "in defense of javascript the hard way motherboard 1"
+},
+{
+"id": "56aaf666073893644b95ab3e",
+"headline": "Useful Apps To Learn Design And Coding On Your Smartphone",
+"timePosted": 1454044774180,
+"link": "http://www.forbes.com/sites/tomaslaurinavicius/2016/01/28/learn-design-and-coding/#90173cb7aebd",
+"metaDescription": "Today I am sharing with you an exclusive list of 15 useful apps to learn design and coding on your smartphone. Invest in your future by learning design and coding while commuting, flying or waiting for your friend who is always late.",
+"description": "undefined",
+"rank": 3,
+"upVotes": [
+{
+"upVotedBy": "553dc6e60cd9d50d775acd4f",
+"upVotedByUsername": "akiralaine"
+},
+{
+"upVotedBy": "55293f5c20083a0b00f5fb72",
+"upVotedByUsername": "cherylu"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/11958359?v=3",
+"userId": "553dc6e60cd9d50d775acd4f",
+"username": "akiralaine"
+},
+"image": "http://blogs-images.forbes.com/tomaslaurinavicius/files/2016/01/Useful-Apps-To-Learn-Design-And-Coding-On-Your-Smartphone.jpg",
+"storyLink": "useful apps to learn design and coding on your smartphone"
+},
+{
+"id": "56ab5ebbd5557cef4bbabb38",
+"headline": "Take Advantage Of HTML5 Local Storage - Read some Tips - DS TECH BLOG",
+"timePosted": 1454071483520,
+"link": "http://dipendrashekhawat.com/take-advantage-of-html-5-web-storage-read-these-5-tips/",
+"metaDescription": "",
+"description": "undefined",
+"rank": 2,
+"upVotes": [
+{
+"upVotedBy": "5619cf33fd70d5b75185dd56",
+"upVotedByUsername": "elp1987"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/16160548?v=3",
+"userId": "5619cf33fd70d5b75185dd56",
+"username": "elp1987"
+},
+"image": "http://dipendrashekhawat.com/wp-content/uploads/2016/01/What-is-HTML5-Local-Storage.png",
+"storyLink": "take advantage of html5 local storage read some tips ds tech blog"
+},
+{
+"id": "56a8dc14f42999d15348e7cf",
+"headline": "How to create a Responsive Admin Template using Light Bootstrap Dashboard",
+"timePosted": 1453906964285,
+"link": "https://www.youtube.com/watch?v=c3M3NQtFyqM",
+"metaDescription": "Hello guys, we've created a video tutorial to show you how to build an Admin Panel using our Light Bootstrap Dashboard. This is the first part, there will be...",
+"description": "undefined",
+"rank": 15,
+"upVotes": [
+{
+"upVotedBy": "561feb0cbadf68d82d420a47",
+"upVotedByUsername": "alexandru-paduraru"
+},
+{
+"upVotedBy": "56a8e32d2c637b9553429709",
+"upVotedByUsername": "fcc774397e2"
+},
+{
+"upVotedBy": "56a8e5162c637b955342970b",
+"upVotedByUsername": "fccaa0b2b24"
+},
+{
+"upVotedBy": "56a8e5162c637b955342970b",
+"upVotedByUsername": "fccaa0b2b24"
+},
+{
+"upVotedBy": "56a8e86c08938ad052efe90a",
+"upVotedByUsername": "fcc96867230"
+},
+{
+"upVotedBy": "56a908e01ddcf467549f00f8",
+"upVotedByUsername": "fcc1025424c"
+},
+{
+"upVotedBy": "56a2e9faef22a6413cc3a2a7",
+"upVotedByUsername": "fcc7899a61a"
+},
+{
+"upVotedBy": "56a2e9faef22a6413cc3a2a7",
+"upVotedByUsername": "fcc7899a61a"
+},
+{
+"upVotedBy": "56a1e08aef22a6413cc3a141",
+"upVotedByUsername": "kasraj"
+},
+{
+"upVotedBy": "55fb25917498d4e9120ee9ae",
+"upVotedByUsername": "mariaspr"
+},
+{
+"upVotedBy": "555f2690053025c556773b93",
+"upVotedByUsername": "jobah"
+},
+{
+"upVotedBy": "56a8c18b1ddcf467549f00af",
+"upVotedByUsername": "elechuad"
+},
+{
+"upVotedBy": "5575e84fd98ce1d26c716a51",
+"upVotedByUsername": "jbull328"
+},
+{
+"upVotedBy": "55293f5c20083a0b00f5fb72",
+"upVotedByUsername": "cherylu"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/2517758?v=3",
+"userId": "561feb0cbadf68d82d420a47",
+"username": "alexandru-paduraru"
+},
+"image": "https://i.ytimg.com/vi/c3M3NQtFyqM/hqdefault.jpg",
+"storyLink": "how to create a responsive admin template using light bootstrap dashboard"
+},
+{
+"id": "56a7352f3e7280ed526193a9",
+"headline": "Why I Dropped Out of Free Code Camp ",
+"timePosted": 1453798703485,
+"link": "https://www.reddit.com/r/learnprogramming/comments/35yz6g/why_i_dropped_out_of_free_code_camp/",
+"metaDescription": "I worked through Free Code Camp's curriculum, contributed to its open-source codebase, then got a coding job much faster than any of my friends...",
+"description": "undefined",
+"rank": 61,
+"upVotes": [
+{
+"upVotedBy": "5634ce38306a67d61c775526",
+"upVotedByUsername": "brainyfarm"
+},
+{
+"upVotedBy": "55e50594927c60b2146a53e3",
+"upVotedByUsername": "legend911"
+},
+{
+"upVotedBy": "56a4f7e92abbb01b531cbdd6",
+"upVotedByUsername": "lindyrp"
+},
+{
+"upVotedBy": "5661224fd83e73b1418395a7",
+"upVotedByUsername": "catalinscr"
+},
+{
+"upVotedBy": "568dc5b5506a1e537e519906",
+"upVotedByUsername": "djlachapelle"
+},
+{
+"upVotedBy": "5696e578e7a531ff27ae3ce7",
+"upVotedByUsername": "fccc5665ba1"
+},
+{
+"upVotedBy": "56a48e48b161a35153c7460e",
+"upVotedByUsername": "bhuz"
+},
+{
+"upVotedBy": "56a44bbe46bb75a93cd5e12d",
+"upVotedByUsername": "dee-one"
+},
+{
+"upVotedBy": "564ad671907289944379da1d",
+"upVotedByUsername": "rameshsyn"
+},
+{
+"upVotedBy": "5655c6af8b55f60a592378d4",
+"upVotedByUsername": "rusticman"
+},
+{
+"upVotedBy": "56a557872e2a419052b99c90",
+"upVotedByUsername": "braincraze"
+},
+{
+"upVotedBy": "569f7550fd78c2793c91bad4",
+"upVotedByUsername": "ikun03"
+},
+{
+"upVotedBy": "55b7ad4ae3cb6e392c5a7aea",
+"upVotedByUsername": "randz-argonillo"
+},
+{
+"upVotedBy": "56a27153b18c6aab3d217043",
+"upVotedByUsername": "andreaweb"
+},
+{
+"upVotedBy": "566feea1c76bf4137569e14a",
+"upVotedByUsername": "tosin27"
+},
+{
+"upVotedBy": "565e2324608b77dd506c08c7",
+"upVotedByUsername": "garrettjeffrey"
+},
+{
+"upVotedBy": "55ce3063182f96cf440a376b",
+"upVotedByUsername": "maverickjjw"
+},
+{
+"upVotedBy": "56a49151905658dc53a5250d",
+"upVotedByUsername": "jmanns"
+},
+{
+"upVotedBy": "5693e43133e2bd223581fa4d",
+"upVotedByUsername": "prusso"
+},
+{
+"upVotedBy": "56513c26146db0fb5ec99d51",
+"upVotedByUsername": "arekkusu44"
+},
+{
+"upVotedBy": "569d35c6b1d3c4a60558ec44",
+"upVotedByUsername": "d-blaze"
+},
+{
+"upVotedBy": "56a856992c637b9553429646",
+"upVotedByUsername": "weslez"
+},
+{
+"upVotedBy": "54fe05dc61db280b0051df92",
+"upVotedByUsername": "mkemo8870"
+},
+{
+"upVotedBy": "555f2c679dc03dda56ab2815",
+"upVotedByUsername": "judylw"
+},
+{
+"upVotedBy": "55a290ffe60c9c5d41a8e7c4",
+"upVotedByUsername": "em-ant"
+},
+{
+"upVotedBy": "568e655c506a1e537e5199e3",
+"upVotedByUsername": "cursedcat"
+},
+{
+"upVotedBy": "562d48a3e33e60853554c039",
+"upVotedByUsername": "cr0wscalling"
+},
+{
+"upVotedBy": "5654a0458b55f60a592377a7",
+"upVotedByUsername": "joe01001010"
+},
+{
+"upVotedBy": "569bc2f11130ac2f0639a7fe",
+"upVotedByUsername": "brunatrf"
+},
+{
+"upVotedBy": "565dc9f9c56c322c6654bbf7",
+"upVotedByUsername": "lag-lan"
+},
+{
+"upVotedBy": "56a2e9faef22a6413cc3a2a7",
+"upVotedByUsername": "fcc7899a61a"
+},
+{
+"upVotedBy": "56a640c675e7c0365353b1f9",
+"upVotedByUsername": "azat55"
+},
+{
+"upVotedBy": "56a910c408938ad052efe945",
+"upVotedByUsername": "jsamchineme"
+},
+{
+"upVotedBy": "55fd85987f141c8b1ac127ad",
+"upVotedByUsername": "erkand-imeri"
+},
+{
+"upVotedBy": "56a94d99d1c119b24c18db6e",
+"upVotedByUsername": "rushh"
+},
+{
+"upVotedBy": "56a61e24905658dc53a526db",
+"upVotedByUsername": "xhound"
+},
+{
+"upVotedBy": "56a1e08aef22a6413cc3a141",
+"upVotedByUsername": "kasraj"
+},
+{
+"upVotedBy": "556ac0a1b8b3a84b5e9dc902",
+"upVotedByUsername": "jeanleonino"
+},
+{
+"upVotedBy": "56a9ebdf073893644b95a9ad",
+"upVotedByUsername": "tjinauyeung"
+},
+{
+"upVotedBy": "56a3bce1ef22a6413cc3a371",
+"upVotedByUsername": "csdevera"
+},
+{
+"upVotedBy": "55fc49f03c1efc6544aed373",
+"upVotedByUsername": "victoriousj"
+},
+{
+"upVotedBy": "56a8f3d908938ad052efe91b",
+"upVotedByUsername": "emillion90"
+},
+{
+"upVotedBy": "56a93ce0073893644b95a8ca",
+"upVotedByUsername": "fccdf8c6571"
+},
+{
+"upVotedBy": "56987afce7a531ff27ae3e9f",
+"upVotedByUsername": "massiveswag"
+},
+{
+"upVotedBy": "54d768d04d783c090075856a",
+"upVotedByUsername": "haleyma"
+},
+{
+"upVotedBy": "5575e84fd98ce1d26c716a51",
+"upVotedByUsername": "jbull328"
+},
+{
+"upVotedBy": "56a827b239cadab4534608ae",
+"upVotedByUsername": "codevandal"
+},
+{
+"upVotedBy": "55baa2a74ef78d1d375db6b3",
+"upVotedByUsername": "krisnilsson"
+},
+{
+"upVotedBy": "5624e783b8a1a2ee7afd8983",
+"upVotedByUsername": "tiffany619"
+},
+{
+"upVotedBy": "555f2690053025c556773b93",
+"upVotedByUsername": "jobah"
+},
+{
+"upVotedBy": "55d1bd9b2bce01a7354260c5",
+"upVotedByUsername": "jeremiahh117"
+},
+{
+"upVotedBy": "55275693044ee80b00296fc2",
+"upVotedByUsername": "tracymazelin"
+},
+{
+"upVotedBy": "55275693044ee80b00296fc2",
+"upVotedByUsername": "tracymazelin"
+},
+{
+"upVotedBy": "56a911331ddcf467549f010b",
+"upVotedByUsername": "cwkatzmann"
+},
+{
+"upVotedBy": "56a393e1cd9b8c043de77f6c",
+"upVotedByUsername": "wolf15d"
+},
+{
+"upVotedBy": "5646828b386bcec64330e480",
+"upVotedByUsername": "ivanpetkov"
+},
+{
+"upVotedBy": "55293f5c20083a0b00f5fb72",
+"upVotedByUsername": "cherylu"
+},
+{
+"upVotedBy": "569769343651d1a5281e7dfc",
+"upVotedByUsername": "fcc7f9455db"
+},
+{
+"upVotedBy": "569769343651d1a5281e7dfc",
+"upVotedByUsername": "fcc7f9455db"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+},
+{
+"upVotedBy": "5632c5c5869ce71b1c6ca893",
+"upVotedByUsername": "solidlion"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/11624587?v=3",
+"userId": "5634ce38306a67d61c775526",
+"username": "brainyfarm"
+},
+"image": "https://www.redditstatic.com/icon.png",
+"storyLink": "why i dropped out of free code camp"
+},
+{
+"id": "56ab1acf073893644b95ab62",
+"headline": "Dread the Hiring Process? Here's How We Fixed Ours",
+"timePosted": 1454054095071,
+"link": "http://blog.meetedgar.com/dread-the-hiring-process-heres-how-we-fixed-ours/",
+"metaDescription": "Feel like you can never find someone good enough? It's time to rethink your hiring process. We used these steps to double the size of our team in a year.",
+"description": "undefined",
+"rank": 2,
+"upVotes": [
+{
+"upVotedBy": "54a4baa6975bfc0b0030b667",
+"upVotedByUsername": "ellieadam"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/7389754?v=3",
+"userId": "54a4baa6975bfc0b0030b667",
+"username": "ellieadam"
+},
+"image": "http://blog.meetedgar.com/wp-content/uploads/2015/09/woman-792162_1920.jpg",
+"storyLink": "dread the hiring process heres how we fixed ours"
+},
+{
+"id": "56ab181543c081954c6b9025",
+"headline": "How modifying popular libraries can help you become a better developer — Free Code Camp...",
+"timePosted": 1454053397280,
+"link": "https://medium.freecodecamp.com/how-modifying-popular-libraries-can-help-you-become-a-better-developer-4fbdd7d88228#.txjmbpo2e",
+"metaDescription": "I have been learning additional skills within the past couple of years. Particular in the computer science area. In a fe…",
+"description": "undefined",
+"rank": 2,
+"upVotes": [
+{
+"upVotedBy": "562afeec4425cde00453e355",
+"upVotedByUsername": "cannelflow"
+},
+{
+"upVotedBy": "56abad5a58089d0a4ccb171c",
+"upVotedByUsername": "fcc4841407f"
+}
+],
+"author": {
+"picture": "https://avatars.githubusercontent.com/u/12219251?v=3",
+"userId": "562afeec4425cde00453e355",
+"username": "cannelflow"
+},
+"image": "https://cdn-images-1.medium.com/max/800/1*mnmZtBX_G4shkB6-Mme5kg.jpeg",
+"storyLink": "how modifying popular libraries can help you become a better developer free code camp 1"
+}
+]
